@@ -1,0 +1,1001 @@
+Movie Title,Runtime,Release Year,Genre,Director,IMDB Rating
+The Shawshank Redemption,142 ,1994,Drama            ,Frank Darabont,9.3
+The Godfather,175 ,1972,"Crime, Drama            ",Francis Ford Coppola,9.2
+The Dark Knight,152 ,2008,"Action, Crime, Drama            ",Christopher Nolan,9.0
+The Lord of the Rings: The Return of the King,201 ,2003,"Action, Adventure, Drama            ",Peter Jackson,9.0
+Schindler's List,195 ,1993,"Biography, Drama, History            ",Steven Spielberg,9.0
+The Godfather: Part II,202 ,1974,"Crime, Drama            ",Francis Ford Coppola,9.0
+12 Angry Men,96 ,1957,"Crime, Drama            ",Sidney Lumet,9.0
+Rocketry: The Nambi Effect,157 ,2022,"Biography, Drama            ",Madhavan,8.9
+Jai Bhim,164 ,2021,"Crime, Drama, Mystery            ",T.J. Gnanavel,8.9
+Pulp Fiction,154 ,1994,"Crime, Drama            ",Quentin Tarantino,8.9
+Inception,148 ,2010,"Action, Adventure, Sci-Fi            ",Christopher Nolan,8.8
+The Lord of the Rings: The Two Towers,179 ,2002,"Action, Adventure, Drama            ",Peter Jackson,8.8
+Fight Club,139 ,1999,Drama            ,David Fincher,8.8
+The Lord of the Rings: The Fellowship of the Ring,178 ,2001,"Action, Adventure, Drama            ",Peter Jackson,8.8
+Forrest Gump,142 ,1994,"Drama, Romance            ",Robert Zemeckis,8.8
+"The Good, the Bad and the Ugly",148 ,1966,"Adventure, Western            ",Sergio Leone,8.8
+Soorarai Pottru,153 ,2020,Drama            ,Sudha Kongara,8.7
+The Matrix,136 ,1999,"Action, Sci-Fi            ",Lana Wachowski,8.7
+Goodfellas,145 ,1990,"Biography, Crime, Drama            ",Martin Scorsese,8.7
+Star Wars: Episode V - The Empire Strikes Back,124 ,1980,"Action, Adventure, Fantasy            ",Irvin Kershner,8.7
+One Flew Over the Cuckoo's Nest,133 ,1975,Drama            ,Milos Forman,8.7
+Interstellar,169 ,2014,"Adventure, Drama, Sci-Fi            ",Christopher Nolan,8.6
+City of God,130 ,2002,"Crime, Drama            ",Fernando Meirelles,8.6
+Spirited Away,125 ,2001,"Animation, Adventure, Family            ",Hayao Miyazaki,8.6
+Saving Private Ryan,169 ,1998,"Drama, War            ",Steven Spielberg,8.6
+The Green Mile,189 ,1999,"Crime, Drama, Fantasy            ",Frank Darabont,8.6
+Life Is Beautiful,116 ,1997,"Comedy, Drama, Romance            ",Roberto Benigni,8.6
+Seven,127 ,1995,"Crime, Drama, Mystery            ",David Fincher,8.6
+Terminator 2: Judgment Day,137 ,1991,"Action, Sci-Fi            ",James Cameron,8.6
+The Silence of the Lambs,118 ,1991,"Crime, Drama, Thriller            ",Jonathan Demme,8.6
+Star Wars,121 ,1977,"Action, Adventure, Fantasy            ",George Lucas,8.6
+Harakiri,133 ,1962,"Action, Drama, Mystery            ",Masaki Kobayashi,8.6
+Seven Samurai,207 ,1954,"Action, Drama            ",Akira Kurosawa,8.6
+It's a Wonderful Life,130 ,1946,"Drama, Family, Fantasy            ",Frank Capra,8.6
+Kaithi,145 ,2019,"Action, Crime, Thriller            ",Lokesh Kanagaraj,8.5
+Asuran,141 ,2019,"Action, Drama            ",Vetrimaaran,8.5
+96,158 ,II 2018,"Drama, Romance            ",C. Prem Kumar,8.5
+Parasite,132 ,2019,"Drama, Thriller            ",Bong Joon Ho,8.5
+Whiplash,106 ,2014,"Drama, Music            ",Damien Chazelle,8.5
+Sita Ramam,163 ,2022,"Action, Drama, Mystery            ",Hanu Raghavapudi,8.5
+Untouchable,112 ,2011,"Biography, Comedy, Drama            ",Olivier Nakache,8.5
+The Prestige,130 ,2006,"Drama, Mystery, Sci-Fi            ",Christopher Nolan,8.5
+The Departed,151 ,2006,"Crime, Drama, Thriller            ",Martin Scorsese,8.5
+The Pianist,150 ,2002,"Biography, Drama, Music            ",Roman Polanski,8.5
+Gladiator,155 ,2000,"Action, Adventure, Drama            ",Ridley Scott,8.5
+American History X,119 ,1998,"Crime, Drama            ",Tony Kaye,8.5
+The Usual Suspects,106 ,1995,"Crime, Mystery, Thriller            ",Bryan Singer,8.5
+Leon,110 ,1994,"Action, Crime, Drama            ",Luc Besson,8.5
+The Lion King,88 ,1994,"Animation, Adventure, Drama            ",Roger Allers,8.5
+Cinema Paradiso,155 ,1988,"Drama, Romance            ",Giuseppe Tornatore,8.5
+Grave of the Fireflies,89 ,1988,"Animation, Drama, War            ",Isao Takahata,8.5
+Back to the Future,116 ,1985,"Adventure, Comedy, Sci-Fi            ",Robert Zemeckis,8.5
+Apocalypse Now,147 ,1979,"Drama, Mystery, War            ",Francis Ford Coppola,8.5
+Alien,117 ,1979,"Horror, Sci-Fi            ",Ridley Scott,8.5
+Once Upon a Time in the West,165 ,1968,Western            ,Sergio Leone,8.5
+Psycho,109 ,1960,"Horror, Mystery, Thriller            ",Alfred Hitchcock,8.5
+Rear Window,112 ,1954,"Mystery, Thriller            ",Alfred Hitchcock,8.5
+Casablanca,102 ,1942,"Drama, Romance, War            ",Michael Curtiz,8.5
+Modern Times,87 ,1936,"Comedy, Drama, Romance            ",Charles Chaplin,8.5
+City Lights,87 ,1931,"Comedy, Drama, Romance            ",Charles Chaplin,8.5
+Vikram,175 ,2022,"Action, Thriller            ",Lokesh Kanagaraj,8.4
+Hamilton,160 ,2020,"Biography, Drama, History            ",Thomas Kail,8.4
+Capernaum,126 ,2018,Drama            ,Nadine Labaki,8.4
+Joker,122 ,I 2019,"Crime, Drama, Thriller            ",Todd Phillips,8.4
+Your Name.,106 ,2016,"Animation, Drama, Fantasy            ",Makoto Shinkai,8.4
+Spider-Man: Into the Spider-Verse,117 ,2018,"Animation, Action, Adventure            ",Bob Persichetti,8.4
+Avengers: Endgame,181 ,2019,"Action, Adventure, Drama            ",Anthony Russo,8.4
+Avengers: Infinity War,149 ,2018,"Action, Adventure, Sci-Fi            ",Anthony Russo,8.4
+Coco,105 ,I 2017,"Animation, Adventure, Comedy            ",Lee Unkrich,8.4
+Django Unchained,165 ,2012,"Drama, Western            ",Quentin Tarantino,8.4
+Top Gun: Maverick,130 ,2022,"Action, Drama            ",Joseph Kosinski,8.4
+The Dark Knight Rises,164 ,2012,"Action, Drama            ",Christopher Nolan,8.4
+Drishyam 2,152 ,2021,"Crime, Drama, Thriller            ",Jeethu Joseph,8.4
+3 Idiots,170 ,2009,"Comedy, Drama            ",Rajkumar Hirani,8.4
+K.G.F: Chapter 2,168 ,2022,"Action, Crime, Drama            ",Prashanth Neel,8.4
+Shershaah,135 ,2021,"Action, Biography, Drama            ",Vishnuvardhan,8.4
+Sardar Udham,164 ,2021,"Biography, Crime, Drama            ",Shoojit Sircar,8.4
+WALL·E,98 ,2008,"Animation, Adventure, Family            ",Andrew Stanton,8.4
+The Lives of Others,137 ,2006,"Drama, Mystery, Thriller            ",Florian Henckel von Donnersmarck,8.4
+Oldboy,120 ,2003,"Action, Drama, Mystery            ",Park Chan-wook,8.4
+Memento,113 ,2000,"Mystery, Thriller            ",Christopher Nolan,8.4
+American Beauty,122 ,1999,Drama            ,Sam Mendes,8.4
+Princess Mononoke,134 ,1997,"Animation, Action, Adventure            ",Hayao Miyazaki,8.4
+Braveheart,178 ,1995,"Biography, Drama, History            ",Mel Gibson,8.4
+Come and See,142 ,1985,"Drama, Thriller, War            ",Elem Klimov,8.4
+Aliens,137 ,1986,"Action, Adventure, Sci-Fi            ",James Cameron,8.4
+Amadeus,160 ,1984,"Biography, Drama, Music            ",Milos Forman,8.4
+Raiders of the Lost Ark,115 ,1981,"Action, Adventure            ",Steven Spielberg,8.4
+Das Boot,149 ,1981,"Drama, War            ",Wolfgang Petersen,8.4
+The Shining,146 ,1980,"Drama, Horror            ",Stanley Kubrick,8.4
+High and Low,143 ,1963,"Crime, Drama, Mystery            ",Akira Kurosawa,8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,95 ,1964,"Comedy, War            ",Stanley Kubrick,8.4
+Witness for the Prosecution,116 ,1957,"Crime, Drama, Mystery            ",Billy Wilder,8.4
+Paths of Glory,88 ,1957,"Drama, War            ",Stanley Kubrick,8.4
+Sunset Blvd.,110 ,1950,"Drama, Film-Noir            ",Billy Wilder,8.4
+The Great Dictator,125 ,1940,"Comedy, Drama, War            ",Charles Chaplin,8.4
+Raatchasan,170 ,2018,"Crime, Drama, Mystery            ",Ram Kumar,8.3
+Ayla,125 ,2017,"Biography, Drama, History            ",Can Ulkay,8.3
+Dangal,161 ,2016,"Action, Biography, Drama            ",Nitesh Tiwari,8.3
+Drishyam,160 ,2013,"Crime, Drama, Thriller            ",Jeethu Joseph,8.3
+The Hunt,115 ,2012,Drama            ,Thomas Vinterberg,8.3
+A Separation,123 ,2011,Drama            ,Asghar Farhadi,8.3
+Incendies,131 ,2010,"Drama, Mystery            ",Denis Villeneuve,8.3
+Spider-Man: No Way Home,148 ,2021,"Action, Adventure, Fantasy            ",Jon Watts,8.3
+Up,96 ,2009,"Animation, Adventure, Comedy            ",Pete Docter,8.3
+Like Stars on Earth,165 ,2007,"Drama, Family            ",Aamir Khan,8.3
+Toy Story 3,103 ,2010,"Animation, Adventure, Comedy            ",Lee Unkrich,8.3
+Inglourious Basterds,153 ,2009,"Adventure, Drama, War            ",Quentin Tarantino,8.3
+Eternal Sunshine of the Spotless Mind,108 ,2004,"Drama, Romance, Sci-Fi            ",Michel Gondry,8.3
+Amélie,122 ,2001,"Comedy, Romance            ",Jean-Pierre Jeunet,8.3
+Requiem for a Dream,102 ,2000,Drama            ,Darren Aronofsky,8.3
+Good Will Hunting,126 ,1997,"Drama, Romance            ",Gus Van Sant,8.3
+Toy Story,81 ,1995,"Animation, Adventure, Comedy            ",John Lasseter,8.3
+Heat,170 ,1995,"Action, Crime, Drama            ",Michael Mann,8.3
+Reservoir Dogs,99 ,1992,"Crime, Thriller            ",Quentin Tarantino,8.3
+Full Metal Jacket,116 ,1987,"Drama, War            ",Stanley Kubrick,8.3
+Once Upon a Time in America,229 ,1984,"Crime, Drama            ",Sergio Leone,8.3
+Scarface,170 ,1983,"Crime, Drama            ",Brian De Palma,8.3
+Star Wars: Return of the Jedi,131 ,1983,"Action, Adventure, Fantasy            ",Richard Marquand,8.3
+The Sting,129 ,1973,"Comedy, Crime, Drama            ",George Roy Hill,8.3
+A Clockwork Orange,136 ,1971,"Crime, Sci-Fi            ",Stanley Kubrick,8.3
+2001: A Space Odyssey,149 ,1968,"Adventure, Sci-Fi            ",Stanley Kubrick,8.3
+To Kill a Mockingbird,129 ,1962,"Crime, Drama            ",Robert Mulligan,8.3
+Lawrence of Arabia,218 ,1962,"Adventure, Biography, Drama            ",David Lean,8.3
+Judgment at Nuremberg,179 ,1961,"Drama, War            ",Stanley Kramer,8.3
+The Apartment,125 ,1960,"Comedy, Drama, Romance            ",Billy Wilder,8.3
+North by Northwest,136 ,1959,"Action, Adventure, Mystery            ",Alfred Hitchcock,8.3
+Vertigo,128 ,1958,"Mystery, Romance, Thriller            ",Alfred Hitchcock,8.3
+Pather Panchali,125 ,1955,Drama            ,Satyajit Ray,8.3
+Singin' in the Rain,103 ,1952,"Comedy, Musical, Romance            ",Stanley Donen,8.3
+Ikiru,143 ,1952,Drama            ,Akira Kurosawa,8.3
+Bicycle Thieves,89 ,1948,Drama            ,Vittorio De Sica,8.3
+Double Indemnity,107 ,1944,"Crime, Drama, Film-Noir            ",Billy Wilder,8.3
+Citizen Kane,119 ,1941,"Drama, Mystery            ",Orson Welles,8.3
+M,117 ,1931,"Crime, Mystery, Thriller            ",Fritz Lang,8.3
+Metropolis,153 ,1927,"Drama, Sci-Fi            ",Fritz Lang,8.3
+The Kid,68 ,1921,"Comedy, Drama, Family            ",Charles Chaplin,8.3
+Chhichhore,143 ,2019,"Comedy, Drama, Romance            ",Nitesh Tiwari,8.2
+1917,119 ,2019,"Action, Drama, War            ",Sam Mendes,8.2
+Uri: The Surgical Strike,138 ,2019,"Action, Drama, History            ",Aditya Dhar,8.2
+Tumbbad,104 ,2018,"Drama, Fantasy, Horror            ",Rahi Anil Barve,8.2
+Andhadhun,139 ,2018,"Comedy, Crime, Music            ",Sriram Raghavan,8.2
+K.G.F,156 ,2018,"Action, Crime, Drama            ",Prashanth Neel,8.2
+Green Book,130 ,2018,"Biography, Comedy, Drama            ",Peter Farrelly,8.2
+Vikram Vedha,147 ,2017,"Action, Crime, Drama            ",Gayatri,8.2
+Baahubali 2: The Conclusion,167 ,2017,"Action, Drama            ",S.S. Rajamouli,8.2
+Drishyam,163 ,2015,"Crime, Drama, Mystery            ",Nishikant Kamat,8.2
+Bhaag Milkha Bhaag,186 ,2013,"Biography, Drama, Sport            ",Rakeysh Omprakash Mehra,8.2
+Inside Out,95 ,I 2015,"Animation, Adventure, Comedy            ",Pete Docter,8.2
+Gangs of Wasseypur,321 ,2012,"Action, Comedy, Crime            ",Anurag Kashyap,8.2
+Paan Singh Tomar,135 ,2012,"Action, Biography, Crime            ",Tigmanshu Dhulia,8.2
+Zindagi Na Milegi Dobara,155 ,2011,"Comedy, Drama, Musical            ",Zoya Akhtar,8.2
+The Secret in Their Eyes,129 ,2009,"Drama, Mystery, Romance            ",Juan José Campanella,8.2
+Warrior,140 ,2011,"Action, Drama, Sport            ",Gavin O'Connor,8.2
+Shutter Island,138 ,2010,"Mystery, Thriller            ",Martin Scorsese,8.2
+Demon Slayer the Movie: Mugen Train,117 ,2020,"Animation, Action, Adventure            ",Haruo Sotozaki,8.2
+Miracle in Cell No. 7,132 ,2019,Drama            ,Mehmet Ada Öztekin,8.2
+The Father,97 ,I 2020,"Drama, Mystery            ",Florian Zeller,8.2
+The Wolf of Wall Street,180 ,2013,"Biography, Comedy, Crime            ",Martin Scorsese,8.2
+No Country for Old Men,122 ,2007,"Crime, Drama, Thriller            ",Ethan Coen,8.2
+My Father and My Son,112 ,2005,"Drama, Family            ",Cagan Irmak,8.2
+There Will Be Blood,158 ,2007,Drama            ,Paul Thomas Anderson,8.2
+Pan's Labyrinth,118 ,2006,"Drama, Fantasy, War            ",Guillermo del Toro,8.2
+V for Vendetta,132 ,2005,"Action, Drama, Sci-Fi            ",James McTeigue,8.2
+Batman Begins,140 ,2005,"Action, Crime, Drama            ",Christopher Nolan,8.2
+Downfall,156 ,2004,"Biography, Drama, History            ",Oliver Hirschbiegel,8.2
+Howl's Moving Castle,119 ,2004,"Animation, Adventure, Family            ",Hayao Miyazaki,8.2
+A Beautiful Mind,135 ,2001,"Biography, Drama            ",Ron Howard,8.2
+Kill Bill: Vol. 1,111 ,2003,"Action, Crime, Drama            ",Quentin Tarantino,8.2
+Finding Nemo,100 ,2003,"Animation, Adventure, Comedy            ",Andrew Stanton,8.2
+Snatch,104 ,2000,"Comedy, Crime            ",Guy Ritchie,8.2
+The Sixth Sense,107 ,1999,"Drama, Mystery, Thriller            ",M. Night Shyamalan,8.2
+"Lock, Stock and Two Smoking Barrels",107 ,1998,"Action, Comedy, Crime            ",Guy Ritchie,8.2
+The Truman Show,103 ,1998,"Comedy, Drama            ",Peter Weir,8.2
+L.A. Confidential,138 ,1997,"Crime, Drama, Mystery            ",Curtis Hanson,8.2
+Children of Heaven,89 ,1997,"Drama, Family, Sport            ",Majid Majidi,8.2
+Casino,178 ,1995,"Crime, Drama            ",Martin Scorsese,8.2
+Jurassic Park,127 ,1993,"Action, Adventure, Sci-Fi            ",Steven Spielberg,8.2
+Unforgiven,130 ,1992,"Drama, Western            ",Clint Eastwood,8.2
+Indiana Jones and the Last Crusade,127 ,1989,"Action, Adventure            ",Steven Spielberg,8.2
+Die Hard,132 ,1988,"Action, Thriller            ",John McTiernan,8.2
+Ran,162 ,1985,"Action, Drama, War            ",Akira Kurosawa,8.2
+The Thing,109 ,1982,"Horror, Mystery, Sci-Fi            ",John Carpenter,8.2
+Raging Bull,129 ,1980,"Biography, Drama, Sport            ",Martin Scorsese,8.2
+The Elephant Man,124 ,1980,"Biography, Drama            ",David Lynch,8.2
+Taxi Driver,114 ,1976,"Crime, Drama            ",Martin Scorsese,8.2
+Monty Python and the Holy Grail,91 ,1975,"Adventure, Comedy, Fantasy            ",Terry Gilliam,8.2
+Dersu Uzala,142 ,1975,"Adventure, Biography, Drama            ",Akira Kurosawa,8.2
+Chinatown,130 ,1974,"Drama, Mystery, Thriller            ",Roman Polanski,8.2
+Z,127 ,1969,"Crime, Drama, Thriller            ",Costa-Gavras,8.2
+For a Few Dollars More,132 ,1965,Western            ,Sergio Leone,8.2
+The Great Escape,172 ,1963,"Adventure, Drama, History            ",John Sturges,8.2
+Yojimbo,110 ,1961,"Action, Drama, Thriller            ",Akira Kurosawa,8.2
+Some Like It Hot,121 ,1959,"Comedy, Music, Romance            ",Billy Wilder,8.2
+The Bridge on the River Kwai,161 ,1957,"Adventure, Drama, War            ",David Lean,8.2
+Dial M for Murder,105 ,1954,"Crime, Thriller            ",Alfred Hitchcock,8.2
+Tokyo Story,136 ,1953,Drama            ,Yasujirô Ozu,8.2
+The Wages of Fear,131 ,1953,"Adventure, Drama, Thriller            ",Henri-Georges Clouzot,8.2
+Umberto D.,89 ,1952,Drama            ,Vittorio De Sica,8.2
+Rashomon,88 ,1950,"Crime, Drama, Mystery            ",Akira Kurosawa,8.2
+All About Eve,138 ,1950,Drama            ,Joseph L. Mankiewicz,8.2
+The Treasure of the Sierra Madre,126 ,1948,"Adventure, Drama, Western            ",John Huston,8.2
+To Be or Not to Be,99 ,1942,"Comedy, Romance, War            ",Ernst Lubitsch,8.2
+Gone with the Wind,238 ,1939,"Drama, Romance, War            ",Victor Fleming,8.2
+The Passion of Joan of Arc,110 ,1928,"Biography, Drama, History            ",Carl Theodor Dreyer,8.2
+The General,67 ,1926,"Action, Adventure, Comedy            ",Clyde Bruckman,8.2
+The Gold Rush,95 ,1925,"Adventure, Comedy, Drama            ",Charles Chaplin,8.2
+Sherlock Jr.,45 ,1924,"Action, Comedy, Romance            ",Buster Keaton,8.2
+Portrait of a Lady on Fire,122 ,2019,"Drama, Romance            ",Céline Sciamma,8.1
+Everything Everywhere All at Once,139 ,2022,"Action, Adventure, Comedy            ",Dan Kwan,8.1
+Pink,136 ,III 2016,"Crime, Drama, Thriller            ",Aniruddha Roy Chowdhury,8.1
+A Silent Voice,130 ,2016,"Animation, Drama            ",Naoko Yamada,8.1
+"Three Billboards Outside Ebbing, Missouri",115 ,2017,"Comedy, Crime, Drama            ",Martin McDonagh,8.1
+Talvar,132 ,2015,"Crime, Drama, Mystery            ",Meghna Gulzar,8.1
+Klaus,96 ,2019,"Animation, Adventure, Comedy            ",Sergio Pablos,8.1
+Masaan,109 ,2015,Drama            ,Neeraj Ghaywan,8.1
+The Handmaiden,145 ,2016,"Drama, Romance, Thriller            ",Park Chan-wook,8.1
+Bajrangi Bhaijaan,163 ,2015,"Action, Adventure, Comedy            ",Kabir Khan,8.1
+Queen,146 ,2013,"Adventure, Comedy, Drama            ",Vikas Bahl,8.1
+Logan,137 ,2017,"Action, Drama, Sci-Fi            ",James Mangold,8.1
+Room,118 ,I 2015,"Drama, Thriller            ",Lenny Abrahamson,8.1
+Wild Tales,122 ,2014,"Comedy, Drama, Thriller            ",Damián Szifron,8.1
+Tangerines,87 ,2013,"Drama, War            ",Zaza Urushadze,8.1
+PK,153 ,2014,"Comedy, Drama, Sci-Fi            ",Rajkumar Hirani,8.1
+OMG: Oh My God!,125 ,2012,"Comedy, Drama, Fantasy            ",Umesh Shukla,8.1
+The Grand Budapest Hotel,99 ,2014,"Adventure, Comedy, Crime            ",Wes Anderson,8.1
+Gone Girl,149 ,2014,"Drama, Mystery, Thriller            ",David Fincher,8.1
+Wolf Children,117 ,2012,"Animation, Drama, Family            ",Mamoru Hosoda,8.1
+Hacksaw Ridge,139 ,2016,"Biography, Drama, History            ",Mel Gibson,8.1
+Barfi!,151 ,2012,"Comedy, Drama, Romance            ",Anurag Basu,8.1
+12 Years a Slave,134 ,2013,"Biography, Drama, History            ",Steve McQueen,8.1
+Rush,123 ,I 2013,"Action, Biography, Drama            ",Ron Howard,8.1
+Le Mans '66,152 ,2019,"Action, Biography, Drama            ",James Mangold,8.1
+Spotlight,129 ,I 2015,"Biography, Crime, Drama            ",Tom McCarthy,8.1
+Kahaani,122 ,2012,"Mystery, Thriller            ",Sujoy Ghosh,8.1
+Udaan,134 ,2010,Drama            ,Vikramaditya Motwane,8.1
+The Help,146 ,2011,Drama            ,Tate Taylor,8.1
+Prisoners,153 ,2013,"Crime, Drama, Mystery            ",Denis Villeneuve,8.1
+Mad Max: Fury Road,120 ,2015,"Action, Adventure, Sci-Fi            ",George Miller,8.1
+A Wednesday,104 ,2008,"Action, Crime, Drama            ",Neeraj Pandey,8.1
+Gran Torino,116 ,2008,Drama            ,Clint Eastwood,8.1
+Harry Potter and the Deathly Hallows: Part 2,130 ,2011,"Adventure, Fantasy, Mystery            ",David Yates,8.1
+Article 15,130 ,2019,"Crime, Drama, Mystery            ",Anubhav Sinha,8.1
+Hachi: A Dog's Tale,93 ,2009,"Biography, Drama, Family            ",Lasse Hallström,8.1
+Mary and Max,92 ,2009,"Animation, Comedy, Drama            ",Adam Elliot,8.1
+How to Train Your Dragon,98 ,2010,"Animation, Action, Adventure            ",Dean DeBlois,8.1
+Chakde! India,153 ,2007,"Drama, Family, Sport            ",Shimit Amin,8.1
+Into the Wild,148 ,2007,"Adventure, Biography, Drama            ",Sean Penn,8.1
+Rang De Basanti,167 ,2006,"Comedy, Crime, Drama            ",Rakeysh Omprakash Mehra,8.1
+Million Dollar Baby,132 ,2004,"Drama, Sport            ",Clint Eastwood,8.1
+Hotel Rwanda,121 ,2004,"Biography, Drama, History            ",Terry George,8.1
+Ratatouille,111 ,2007,"Animation, Adventure, Comedy            ",Brad Bird,8.1
+Before Sunset,80 ,2004,"Drama, Romance            ",Richard Linklater,8.1
+Black,122 ,2005,Drama            ,Sanjay Leela Bhansali,8.1
+Munna Bhai M.B.B.S.,156 ,2003,"Comedy, Drama            ",Rajkumar Hirani,8.1
+"Swades: We, the People",210 ,2004,"Drama, Musical            ",Ashutosh Gowariker,8.1
+Memories of Murder,131 ,2003,"Crime, Drama, Mystery            ",Bong Joon Ho,8.1
+Pirates of the Caribbean: The Curse of the Black Pearl,143 ,2003,"Action, Adventure, Fantasy            ",Gore Verbinski,8.1
+Dil Chahta Hai,183 ,2001,"Comedy, Drama, Romance            ",Farhan Akhtar,8.1
+Catch Me If You Can,141 ,2002,"Biography, Crime, Drama            ",Steven Spielberg,8.1
+Her Sey Çok Güzel Olacak,107 ,1998,"Comedy, Drama, Thriller            ",Ömer Vargi,8.1
+Amores perros,154 ,2000,"Drama, Thriller            ",Alejandro G. Iñárritu,8.1
+Hera Pheri,156 ,2000,"Action, Comedy, Crime            ",Priyadarshan,8.1
+Sarfarosh,174 ,1999,"Action, Drama, Thriller            ",John Mathew Matthan,8.1
+"Monsters, Inc.",92 ,2001,"Animation, Adventure, Comedy            ",Pete Docter,8.1
+Lagaan: Once Upon a Time in India,224 ,2001,"Drama, Musical, Sport            ",Ashutosh Gowariker,8.1
+The Celebration,105 ,1998,Drama            ,Thomas Vinterberg,8.1
+The Iron Giant,86 ,1999,"Animation, Action, Adventure            ",Brad Bird,8.1
+The Big Lebowski,117 ,1998,"Comedy, Crime            ",Joel Coen,8.1
+In the Mood for Love,98 ,2000,"Drama, Romance            ",Kar-Wai Wong,8.1
+Trainspotting,93 ,1996,Drama            ,Danny Boyle,8.1
+Fargo,98 ,1996,"Crime, Thriller            ",Joel Coen,8.1
+The Bandit,128 ,1996,"Crime, Drama, Thriller            ",Yavuz Turgul,8.1
+Underground,170 ,1995,"Comedy, Drama, Fantasy            ",Emir Kusturica,8.1
+La Haine,98 ,1995,"Crime, Drama            ",Mathieu Kassovitz,8.1
+Before Sunrise,101 ,1995,"Drama, Romance            ",Richard Linklater,8.1
+Three Colours: Red,99 ,1994,"Drama, Mystery, Romance            ",Krzysztof Kieslowski,8.1
+In the Name of the Father,133 ,1993,"Biography, Crime, Drama            ",Jim Sheridan,8.1
+Groundhog Day,101 ,1993,"Comedy, Drama, Fantasy            ",Harold Ramis,8.1
+Farewell My Concubine,171 ,1993,"Drama, Music, Romance            ",Kaige Chen,8.1
+Raise the Red Lantern,125 ,1991,"Drama, History, Romance            ",Yimou Zhang,8.1
+Time of the Gypsies,142 ,1988,"Comedy, Crime, Drama            ",Emir Kusturica,8.1
+Dead Poets Society,128 ,1989,"Comedy, Drama            ",Peter Weir,8.1
+My Neighbour Totoro,86 ,1988,"Animation, Comedy, Family            ",Hayao Miyazaki,8.1
+Stand by Me,89 ,1986,"Adventure, Drama            ",Rob Reiner,8.1
+Platoon,120 ,1986,"Drama, War            ",Oliver Stone,8.1
+Jean de Florette,120 ,1986,"Comedy, Drama            ",Claude Berri,8.1
+The Terminator,107 ,1984,"Action, Sci-Fi            ",James Cameron,8.1
+"Paris, Texas",145 ,1984,Drama            ,Wim Wenders,8.1
+Gandhi,191 ,1982,"Biography, Drama            ",Richard Attenborough,8.1
+Fanny and Alexander,188 ,1982,Drama            ,Ingmar Bergman,8.1
+Blade Runner,117 ,1982,"Action, Drama, Sci-Fi            ",Ridley Scott,8.1
+Stalker,162 ,1979,"Drama, Sci-Fi            ",Andrei Tarkovsky,8.1
+Autumn Sonata,92 ,1978,"Drama, Music            ",Ingmar Bergman,8.1
+The Deer Hunter,183 ,1978,"Drama, War            ",Michael Cimino,8.1
+Rocky,120 ,1976,"Drama, Sport            ",John G. Avildsen,8.1
+Network,121 ,1976,Drama            ,Sidney Lumet,8.1
+The Message,177 ,1976,"Biography, Drama, History            ",Moustapha Akkad,8.1
+Sholay,204 ,1975,"Action, Adventure, Comedy            ",Ramesh Sippy,8.1
+Jaws,124 ,1975,"Adventure, Thriller            ",Steven Spielberg,8.1
+Barry Lyndon,185 ,1975,"Adventure, Drama, War            ",Stanley Kubrick,8.1
+Paper Moon,102 ,1973,"Comedy, Crime, Drama            ",Peter Bogdanovich,8.1
+The Exorcist,122 ,1973,Horror            ,William Friedkin,8.1
+Anand,122 ,1971,"Drama, Musical            ",Hrishikesh Mukherjee,8.1
+Cool Hand Luke,127 ,1967,"Crime, Drama            ",Stuart Rosenberg,8.1
+Persona,85 ,1966,"Drama, Thriller            ",Ingmar Bergman,8.1
+Andrei Rublev,205 ,1966,"Biography, Drama, History            ",Andrei Tarkovsky,8.1
+The Sound of Music,172 ,1965,"Biography, Drama, Family            ",Robert Wise,8.1
+The Battle of Algiers,121 ,1966,"Drama, War            ",Gillo Pontecorvo,8.1
+The Man Who Shot Liberty Valance,123 ,1962,"Drama, Western            ",John Ford,8.1
+The Virgin Spring,89 ,1960,Drama            ,Ingmar Bergman,8.1
+Inherit the Wind,128 ,1960,"Biography, Drama, History            ",Stanley Kramer,8.1
+The 400 Blows,99 ,1959,"Crime, Drama            ",François Truffaut,8.1
+Ben-Hur,212 ,1959,"Adventure, Drama            ",William Wyler,8.1
+The Hidden Fortress,139 ,1958,"Action, Adventure, Drama            ",Akira Kurosawa,8.1
+Wild Strawberries,91 ,1957,"Drama, Romance            ",Ingmar Bergman,8.1
+The Seventh Seal,96 ,1957,"Drama, Fantasy            ",Ingmar Bergman,8.1
+Nights of Cabiria,110 ,1957,Drama            ,Federico Fellini,8.1
+Throne of Blood,110 ,1957,"Drama, History            ",Akira Kurosawa,8.1
+Rififi,118 ,1955,"Crime, Drama, Thriller            ",Jules Dassin,8.1
+On the Waterfront,108 ,1954,"Crime, Drama, Thriller            ",Elia Kazan,8.1
+Les Diaboliques,117 ,1955,"Crime, Drama, Horror            ",Henri-Georges Clouzot,8.1
+Ace in the Hole,111 ,1951,"Drama, Film-Noir            ",Billy Wilder,8.1
+White Heat,114 ,1949,"Action, Crime, Drama            ",Raoul Walsh,8.1
+The Third Man,104 ,1949,"Film-Noir, Mystery, Thriller            ",Carol Reed,8.1
+The Red Shoes,135 ,1948,"Drama, Music, Romance            ",Michael Powell,8.1
+The Best Years of Our Lives,170 ,1946,"Drama, Romance, War            ",William Wyler,8.1
+Rebecca,130 ,1940,"Drama, Film-Noir, Mystery            ",Alfred Hitchcock,8.1
+The Grapes of Wrath,129 ,1940,Drama            ,John Ford,8.1
+The Wizard of Oz,102 ,1939,"Adventure, Family, Fantasy            ",Victor Fleming,8.1
+Mr. Smith Goes to Washington,129 ,1939,"Comedy, Drama            ",Frank Capra,8.1
+La Grande Illusion,113 ,1937,"Drama, War            ",Jean Renoir,8.1
+It Happened One Night,105 ,1934,"Comedy, Romance            ",Frank Capra,8.1
+All Quiet on the Western Front,152 ,1930,"Drama, War            ",Lewis Milestone,8.1
+The Circus,72 ,1928,"Comedy, Family, Romance            ",Charles Chaplin,8.1
+Sunrise: A Song of Two Humans,94 ,1927,"Drama, Romance            ",F.W. Murnau,8.1
+"Quo vadis, Aida?",101 ,2020,"Drama, History, War            ",Jasmila Zbanic,8.0
+RRR,187 ,2022,"Action, Drama            ",S.S. Rajamouli,8.0
+Wolfwalkers,103 ,2020,"Animation, Adventure, Family            ",Tomm Moore,8.0
+The Invisible Guest,106 ,2016,"Crime, Drama, Mystery            ",Oriol Paulo,8.0
+La La Land,128 ,2016,"Comedy, Drama, Music            ",Damien Chazelle,8.0
+Lion,118 ,2016,"Biography, Drama            ",Garth Davis,8.0
+The Martian,144 ,2015,"Adventure, Drama, Sci-Fi            ",Ridley Scott,8.0
+Mommy,139 ,I 2014,Drama            ,Xavier Dolan,8.0
+Haider,160 ,2014,"Action, Crime, Drama            ",Vishal Bhardwaj,8.0
+Soul,100 ,2020,"Animation, Adventure, Comedy            ",Pete Docter,8.0
+Zootropolis,108 ,2016,"Animation, Adventure, Comedy            ",Byron Howard,8.0
+Winter Sleep,196 ,2014,Drama            ,Nuri Bilge Ceylan,8.0
+Baahubali: The Beginning,159 ,2015,"Action, Drama            ",S.S. Rajamouli,8.0
+The Tale of the Princess Kaguya,137 ,2013,"Animation, Drama, Family            ",Isao Takahata,8.0
+Special Chabbis,144 ,2013,"Crime, Drama, Thriller            ",Neeraj Pandey,8.0
+The Imitation Game,114 ,2014,"Biography, Drama, Thriller            ",Morten Tyldum,8.0
+Guardians of the Galaxy,121 ,2014,"Action, Adventure, Comedy            ",James Gunn,8.0
+Song of the Sea,93 ,2014,"Animation, Adventure, Drama            ",Tomm Moore,8.0
+Blade Runner 2049,164 ,2017,"Action, Drama, Mystery            ",Denis Villeneuve,8.0
+Her,126 ,2013,"Drama, Romance, Sci-Fi            ",Spike Jonze,8.0
+The Revenant,156 ,2015,"Action, Adventure, Drama            ",Alejandro G. Iñárritu,8.0
+The Perks of Being a Wallflower,103 ,2012,Drama            ,Stephen Chbosky,8.0
+Elite Squad 2: The Enemy Within,115 ,2010,"Action, Crime, Drama            ",José Padilha,8.0
+The King's Speech,118 ,2010,"Biography, Drama, History            ",Tom Hooper,8.0
+Deadpool,108 ,2016,"Action, Adventure, Comedy            ",Tim Miller,8.0
+Zack Snyder's Justice League,242 ,2021,"Action, Adventure, Fantasy            ",Zack Snyder,8.0
+Ip Man,106 ,2008,"Action, Biography, Drama            ",Wilson Yip,8.0
+Dune,155 ,2021,"Action, Adventure, Drama            ",Denis Villeneuve,8.0
+Departures,130 ,2008,Drama            ,Yôjirô Takita,8.0
+CODA,111 ,2021,"Comedy, Drama, Music            ",Sian Heder,8.0
+Slumdog Millionaire,120 ,2008,"Crime, Drama, Romance            ",Danny Boyle,8.0
+Black Swan,108 ,2010,"Drama, Thriller            ",Darren Aronofsky,8.0
+Elite Squad,115 ,2007,"Action, Crime, Drama            ",José Padilha,8.0
+Avengers Assemble,143 ,2012,"Action, Adventure, Sci-Fi            ",Joss Whedon,8.0
+Persepolis,96 ,2007,"Animation, Biography, Drama            ",Vincent Paronnaud,8.0
+Lage Raho Munna Bhai,144 ,2006,"Comedy, Drama, Romance            ",Rajkumar Hirani,8.0
+The Pursuit of Happyness,117 ,2006,"Biography, Drama            ",Gabriele Muccino,8.0
+Blood Diamond,143 ,2006,"Adventure, Drama, Thriller            ",Edward Zwick,8.0
+The Bourne Ultimatum,115 ,2007,"Action, Mystery, Thriller            ",Paul Greengrass,8.0
+Nobody Knows,141 ,2004,Drama            ,Hirokazu Koreeda,8.0
+Sin City,124 ,2005,"Crime, Thriller            ",Frank Miller,8.0
+The Diving Bell and the Butterfly,112 ,2007,"Biography, Drama            ",Julian Schnabel,8.0
+Brotherhood,140 ,2004,"Action, Drama, War            ",Je-kyu Kang,8.0
+G.O.R.A.,127 ,2004,"Adventure, Comedy, Sci-Fi            ",Ömer Faruk Sorak,8.0
+Casino Royale,144 ,2006,"Action, Adventure, Thriller            ",Martin Campbell,8.0
+Kill Bill: Vol. 2,137 ,2004,"Action, Crime, Thriller            ",Quentin Tarantino,8.0
+"Spring, Summer, Fall, Winter... And Spring",103 ,2003,"Drama, Romance            ",Kim Ki-duk,8.0
+The Sea Inside,126 ,I 2004,"Biography, Drama            ",Alejandro Amenábar,8.0
+Cinderella Man,144 ,2005,"Biography, Drama, Romance            ",Ron Howard,8.0
+Infernal Affairs,101 ,2002,"Action, Crime, Drama            ",Andrew Lau,8.0
+Big Fish,125 ,2003,"Adventure, Drama, Fantasy            ",Tim Burton,8.0
+The Incredibles,115 ,2004,"Animation, Action, Adventure            ",Brad Bird,8.0
+My Sassy Girl,137 ,2001,"Comedy, Drama, Romance            ",Jae-young Kwak,8.0
+Dogville,178 ,2003,"Crime, Drama            ",Lars von Trier,8.0
+Vizontele,110 ,2001,"Comedy, Drama            ",Yilmaz Erdogan,8.0
+Donnie Darko,113 ,2001,"Drama, Mystery, Sci-Fi            ",Richard Kelly,8.0
+Magnolia,188 ,1999,Drama            ,Paul Thomas Anderson,8.0
+Neon Genesis Evangelion: The End of Evangelion,87 ,1997,"Animation, Action, Drama            ",Hideaki Anno,8.0
+The Straight Story,112 ,1999,"Biography, Drama            ",David Lynch,8.0
+Perfect Blue,81 ,1997,"Animation, Crime, Drama            ",Satoshi Kon,8.0
+Central Station,110 ,1998,Drama            ,Walter Salles,8.0
+The Legend of 1900,169 ,1998,"Drama, Music, Romance            ",Giuseppe Tornatore,8.0
+"Black Cat, White Cat",127 ,1998,"Comedy, Crime, Romance            ",Emir Kusturica,8.0
+Sling Blade,135 ,1996,Drama            ,Billy Bob Thornton,8.0
+Secrets & Lies,136 ,1996,"Comedy, Drama            ",Mike Leigh,8.0
+Twelve Monkeys,129 ,1995,"Mystery, Sci-Fi, Thriller            ",Terry Gilliam,8.0
+Dilwale Dulhania Le Jayenge,189 ,1995,"Drama, Romance            ",Aditya Chopra,8.0
+Chungking Express,102 ,1994,"Comedy, Crime, Drama            ",Kar-Wai Wong,8.0
+Andaz Apna Apna,160 ,1994,"Action, Comedy, Romance            ",Rajkumar Santoshi,8.0
+Scent of a Woman,156 ,1992,Drama            ,Martin Brest,8.0
+Aladdin,90 ,1992,"Animation, Adventure, Comedy            ",Ron Clements,8.0
+JFK,189 ,1991,"Drama, History, Thriller            ",Oliver Stone,8.0
+Beauty and the Beast,84 ,1991,"Animation, Family, Fantasy            ",Gary Trousdale,8.0
+Dances with Wolves,181 ,1990,"Adventure, Drama, Western            ",Kevin Costner,8.0
+Rain Man,133 ,1988,Drama            ,Barry Levinson,8.0
+Akira,124 ,1988,"Animation, Action, Drama            ",Katsuhiro Ôtomo,8.0
+The Princess Bride,98 ,1987,"Adventure, Family, Fantasy            ",Rob Reiner,8.0
+Wings of Desire,128 ,1987,"Drama, Fantasy, Romance            ",Wim Wenders,8.0
+Au Revoir les Enfants,104 ,1987,"Drama, War            ",Louis Malle,8.0
+Laputa: Castle in the Sky,125 ,1986,"Animation, Adventure, Family            ",Hayao Miyazaki,8.0
+Nausicaä of the Valley of the Wind,117 ,1984,"Animation, Adventure, Sci-Fi            ",Hayao Miyazaki,8.0
+Nostalgia,125 ,1983,Drama            ,Andrei Tarkovsky,8.0
+Pink Floyd: The Wall,95 ,1982,"Drama, Fantasy, Music            ",Alan Parker,8.0
+Fitzcarraldo,158 ,1982,"Adventure, Drama            ",Werner Herzog,8.0
+Life of Brian,94 ,1979,Comedy            ,Terry Jones,8.0
+Being There,130 ,1979,"Comedy, Drama            ",Hal Ashby,8.0
+Annie Hall,93 ,1977,"Comedy, Romance            ",Woody Allen,8.0
+Dog Day Afternoon,125 ,1975,"Biography, Crime, Drama            ",Sidney Lumet,8.0
+Mirror,107 ,1975,"Biography, Drama            ",Andrei Tarkovsky,8.0
+Young Frankenstein,106 ,1974,Comedy            ,Mel Brooks,8.0
+Papillon,151 ,1973,"Biography, Crime, Drama            ",Franklin J. Schaffner,8.0
+Cries and Whispers,91 ,1972,Drama            ,Ingmar Bergman,8.0
+Solaris,167 ,1972,"Drama, Mystery, Sci-Fi            ",Andrei Tarkovsky,8.0
+Sleuth,138 ,1972,"Mystery, Thriller            ",Joseph L. Mankiewicz,8.0
+The Last Picture Show,118 ,1971,"Drama, Romance            ",Peter Bogdanovich,8.0
+Fiddler on the Roof,181 ,1971,"Drama, Family, Musical            ",Norman Jewison,8.0
+Butch Cassidy and the Sundance Kid,110 ,1969,"Biography, Crime, Drama            ",George Roy Hill,8.0
+Rosemary's Baby,137 ,1968,"Drama, Horror            ",Roman Polanski,8.0
+Planet of the Apes,112 ,1968,"Adventure, Sci-Fi            ",Franklin J. Schaffner,8.0
+Le Samouraï,105 ,1967,"Crime, Drama            ",Jean-Pierre Melville,8.0
+The Graduate,106 ,1967,"Comedy, Drama, Romance            ",Mike Nichols,8.0
+Who's Afraid of Virginia Woolf?,131 ,1966,Drama            ,Mike Nichols,8.0
+The Leopard,186 ,1963,"Drama, History            ",Luchino Visconti,8.0
+Federico Fellini's 8½,138 ,1963,Drama            ,Federico Fellini,8.0
+The Exterminating Angel,95 ,1962,"Drama, Fantasy            ",Luis Buñuel,8.0
+What Ever Happened to Baby Jane?,134 ,1962,"Drama, Horror, Thriller            ",Robert Aldrich,8.0
+Sanjuro,96 ,1962,"Action, Drama, Thriller            ",Akira Kurosawa,8.0
+Ivan's Childhood,95 ,1962,"Drama, War            ",Andrei Tarkovsky,8.0
+Through a Glass Darkly,90 ,1961,Drama            ,Ingmar Bergman,8.0
+The Hustler,134 ,1961,"Drama, Sport            ",Robert Rossen,8.0
+La dolce vita,174 ,1960,"Comedy, Drama            ",Federico Fellini,8.0
+Rio Bravo,141 ,1959,Western            ,Howard Hawks,8.0
+Anatomy of a Murder,161 ,1959,"Drama, Mystery            ",Otto Preminger,8.0
+Touch of Evil,95 ,1958,"Crime, Drama, Film-Noir            ",Orson Welles,8.0
+Sweet Smell of Success,96 ,1957,"Drama, Film-Noir            ",Alexander Mackendrick,8.0
+The Killing,84 ,1956,"Crime, Drama, Film-Noir            ",Stanley Kubrick,8.0
+The Night of the Hunter,92 ,1955,"Crime, Drama, Film-Noir            ",Charles Laughton,8.0
+La Strada,108 ,1954,Drama            ,Federico Fellini,8.0
+Stalag 17,120 ,1953,"Comedy, Drama, War            ",Billy Wilder,8.0
+Roman Holiday,118 ,1953,"Comedy, Romance            ",William Wyler,8.0
+High Noon,85 ,1952,"Drama, Thriller, Western            ",Fred Zinnemann,8.0
+Kind Hearts and Coronets,106 ,1949,"Comedy, Crime            ",Robert Hamer,8.0
+Out of the Past,97 ,1947,"Crime, Drama, Film-Noir            ",Jacques Tourneur,8.0
+"Rome, Open City",103 ,1945,"Drama, Thriller, War            ",Roberto Rossellini,8.0
+Brief Encounter,86 ,1945,"Drama, Romance            ",David Lean,8.0
+The Maltese Falcon,100 ,1941,"Crime, Film-Noir, Mystery            ",John Huston,8.0
+The Shop Around the Corner,99 ,1940,"Comedy, Drama, Romance            ",Ernst Lubitsch,8.0
+Battleship Potemkin,75 ,1925,"Drama, History, Thriller            ",Sergei Eisenstein,8.0
+The Cabinet of Dr. Caligari,58 ,1920,"Horror, Mystery, Thriller            ",Robert Wiene,8.0
+Knives Out,130 ,2019,"Comedy, Crime, Drama            ",Rian Johnson,7.9
+Shoplifters,121 ,2018,"Crime, Drama, Thriller            ",Hirokazu Koreeda,7.9
+Badhaai Ho,124 ,2018,"Comedy, Drama            ",Amit Ravindernath Sharma,7.9
+Marriage Story,137 ,2019,"Drama, Romance            ",Noah Baumbach,7.9
+Super 30,154 ,2019,"Biography, Drama            ",Vikas Bahl,7.9
+Padman,140 ,2018,"Biography, Comedy, Drama            ",R. Balki,7.9
+Togo,113 ,2019,"Adventure, Biography, Drama            ",Ericson Core,7.9
+Airlift,130 ,2016,"Action, Drama, History            ",Raja Menon,7.9
+M.S. Dhoni: The Untold Story,184 ,2016,"Biography, Drama, Sport            ",Neeraj Pandey,7.9
+Baby,159 ,I 2015,"Action, Crime, Thriller            ",Neeraj Pandey,7.9
+Sing Street,106 ,2016,"Comedy, Drama, Music            ",John Carney,7.9
+Thor: Ragnarok,130 ,2017,"Action, Adventure, Comedy            ",Taika Waititi,7.9
+Jojo Rabbit,108 ,2019,"Comedy, Drama, War            ",Taika Waititi,7.9
+Wonder,113 ,I 2017,"Drama, Family            ",Stephen Chbosky,7.9
+Arrival,116 ,II 2016,"Drama, Mystery, Sci-Fi            ",Denis Villeneuve,7.9
+Gully Boy,154 ,2019,"Drama, Music, Romance            ",Zoya Akhtar,7.9
+Short Term 12,96 ,2013,Drama            ,Destin Daniel Cretton,7.9
+The Raid 2,150 ,2014,"Action, Crime, Thriller            ",Gareth Evans,7.9
+Before Midnight,109 ,2013,"Drama, Romance            ",Richard Linklater,7.9
+X-Men: Days of Future Past,132 ,2014,"Action, Adventure, Sci-Fi            ",Bryan Singer,7.9
+The Batman,176 ,2022,"Action, Crime, Drama            ",Matt Reeves,7.9
+Bohemian Rhapsody,134 ,2018,"Biography, Drama, Music            ",Bryan Singer,7.9
+The Way He Looks,96 ,2014,"Drama, Romance            ",Daniel Ribeiro,7.9
+The Artist,100 ,I 2011,"Comedy, Drama, Romance            ",Michel Hazanavicius,7.9
+Edge of Tomorrow,113 ,2014,"Action, Adventure, Sci-Fi            ",Doug Liman,7.9
+Amour,127 ,2012,Drama            ,Michael Haneke,7.9
+About Elly,119 ,2009,"Drama, Mystery            ",Asghar Farhadi,7.9
+Dev.D,144 ,2009,"Comedy, Drama, Romance            ",Anurag Kashyap,7.9
+My Name Is Khan,165 ,2010,"Adventure, Drama, Romance            ",Karan Johar,7.9
+Nefes: Vatan Sagolsun,128 ,2009,"Action, Drama, Thriller            ",Levent Semerci,7.9
+Let the Right One In,114 ,2008,"Drama, Fantasy, Horror            ",Tomas Alfredson,7.9
+District 9,112 ,2009,"Action, Sci-Fi, Thriller            ",Neill Blomkamp,7.9
+The Wrestler,109 ,2008,"Drama, Sport            ",Darren Aronofsky,7.9
+Jab We Met,138 ,2007,"Comedy, Drama, Romance            ",Imtiaz Ali,7.9
+Boyhood,165 ,I 2014,Drama            ,Richard Linklater,7.9
+"4 Months, 3 Weeks and 2 Days",113 ,2007,Drama            ,Cristian Mungiu,7.9
+Star Trek,127 ,2009,"Action, Adventure, Sci-Fi            ",J.J. Abrams,7.9
+Dallas Buyers Club,117 ,2013,"Biography, Drama            ",Jean-Marc Vallée,7.9
+In Bruges,107 ,2008,"Comedy, Crime, Drama            ",Martin McDonagh,7.9
+The Man from Earth,87 ,2007,"Drama, Fantasy, Mystery            ",Richard Schenkman,7.9
+Letters from Iwo Jima,141 ,2006,"Action, Adventure, Drama            ",Clint Eastwood,7.9
+Life of Pi,127 ,2012,"Adventure, Drama, Fantasy            ",Ang Lee,7.9
+Fantastic Mr. Fox,87 ,2009,"Animation, Adventure, Comedy            ",Wes Anderson,7.9
+3-Iron,88 ,2004,"Crime, Drama, Romance            ",Kim Ki-duk,7.9
+C.R.A.Z.Y.,129 ,2005,"Comedy, Drama            ",Jean-Marc Vallée,7.9
+The Return,110 ,2003,Drama            ,Andrey Zvyagintsev,7.9
+Iron Man,126 ,2008,"Action, Adventure, Sci-Fi            ",Jon Favreau,7.9
+Shaun of the Dead,99 ,2004,"Comedy, Horror            ",Edgar Wright,7.9
+Kal Ho Naa Ho,186 ,2003,"Comedy, Drama, Musical            ",Nikkhil Advani,7.9
+Head-On,121 ,2004,"Drama, Romance            ",Fatih Akin,7.9
+Mystic River,138 ,2003,"Crime, Drama, Mystery            ",Clint Eastwood,7.9
+Harry Potter and the Prisoner of Azkaban,142 ,2004,"Adventure, Family, Fantasy            ",Alfonso Cuarón,7.9
+Hero,120 ,2002,"Action, Adventure, Drama            ",Yimou Zhang,7.9
+Talk to Her,112 ,2002,"Drama, Mystery, Romance            ",Pedro Almodóvar,7.9
+No Man's Land,98 ,I 2001,"Comedy, Drama, War            ",Danis Tanovic,7.9
+The Bourne Identity,119 ,2002,"Action, Mystery, Thriller            ",Doug Liman,7.9
+Nine Queens,114 ,2000,"Crime, Drama, Thriller            ",Fabián Bielinsky,7.9
+Children of Men,109 ,2006,"Action, Drama, Sci-Fi            ",Alfonso Cuarón,7.9
+"Crouching Tiger, Hidden Dragon",120 ,2000,"Action, Adventure, Drama            ",Ang Lee,7.9
+Almost Famous,122 ,2000,"Adventure, Comedy, Drama            ",Cameron Crowe,7.9
+Dancer in the Dark,140 ,2000,"Crime, Drama, Musical            ",Lars von Trier,7.9
+Mulholland Drive,147 ,2001,"Drama, Mystery, Thriller            ",David Lynch,7.9
+Shrek,90 ,2001,"Animation, Adventure, Comedy            ",Andrew Adamson,7.9
+Toy Story 2,92 ,1999,"Animation, Adventure, Comedy            ",John Lasseter,7.9
+Titanic,194 ,1997,"Drama, Romance            ",James Cameron,7.9
+Knockin' on Heaven's Door,87 ,1997,"Action, Crime, Comedy            ",Thomas Jahn,7.9
+Boogie Nights,155 ,1997,Drama            ,Paul Thomas Anderson,7.9
+Whisper of the Heart,111 ,1995,"Animation, Drama, Family            ",Yoshifumi Kondô,7.9
+Ghost in the Shell,83 ,1995,"Animation, Action, Crime            ",Mamoru Oshii,7.9
+Once Were Warriors,102 ,1994,"Crime, Drama            ",Lee Tamahori,7.9
+True Romance,119 ,1993,"Crime, Drama, Romance            ",Tony Scott,7.9
+Three Colors: Blue,94 ,1993,"Drama, Music, Mystery            ",Krzysztof Kieslowski,7.9
+The Nightmare Before Christmas,76 ,1993,"Animation, Family, Fantasy            ",Henry Selick,7.9
+Carlito's Way,144 ,1993,"Crime, Drama, Thriller            ",Brian De Palma,7.9
+"Blood In, Blood Out",180 ,1993,"Crime, Drama            ",Taylor Hackford,7.9
+Edward Scissorhands,105 ,1990,"Drama, Fantasy, Romance            ",Tim Burton,7.9
+My Left Foot,103 ,1989,"Biography, Drama            ",Jim Sheridan,7.9
+Do the Right Thing,120 ,1989,"Comedy, Drama            ",Spike Lee,7.9
+The Untouchables,119 ,1987,"Crime, Drama, Thriller            ",Brian De Palma,7.9
+The Sacrifice,149 ,1986,Drama            ,Andrei Tarkovsky,7.9
+Hannah and Her Sisters,107 ,1986,"Comedy, Drama            ",Woody Allen,7.9
+Brazil,132 ,1985,"Drama, Sci-Fi            ",Terry Gilliam,7.9
+This Is Spinal Tap,82 ,1984,"Comedy, Music            ",Rob Reiner,7.9
+A Christmas Story,93 ,1983,"Comedy, Family            ",Bob Clark,7.9
+E.T. the Extra-Terrestrial,115 ,1982,"Adventure, Family, Sci-Fi            ",Steven Spielberg,7.9
+Kagemusha,180 ,1980,"Drama, History, War            ",Akira Kurosawa,7.9
+The Blues Brothers,133 ,1980,"Action, Adventure, Comedy            ",John Landis,7.9
+Manhattan,96 ,1979,"Comedy, Drama, Romance            ",Woody Allen,7.9
+All the President's Men,138 ,1976,"Drama, History, Thriller            ",Alan J. Pakula,7.9
+Amarcord,123 ,1973,"Comedy, Drama            ",Federico Fellini,7.9
+Harold and Maude,91 ,1971,"Comedy, Drama, Romance            ",Hal Ashby,7.9
+Patton,172 ,1970,"Biography, Drama, War            ",Franklin J. Schaffner,7.9
+The Conformist,113 ,1970,Drama            ,Bernardo Bertolucci,7.9
+Le Cercle Rouge,140 ,1970,"Crime, Drama, Thriller            ",Jean-Pierre Melville,7.9
+The Wild Bunch,145 ,1969,"Action, Adventure, Western            ",Sam Peckinpah,7.9
+The Lion in Winter,134 ,1968,"Biography, Drama, History            ",Anthony Harvey,7.9
+In the Heat of the Night,110 ,1967,"Drama, Mystery, Thriller            ",Norman Jewison,7.9
+In Cold Blood,134 ,1967,"Biography, Crime, Drama            ",Richard Brooks,7.9
+Doctor Zhivago,193 ,1965,"Drama, Romance, War            ",David Lean,7.9
+A Fistful of Dollars,99 ,1964,"Action, Drama, Western            ",Sergio Leone,7.9
+Charade,113 ,1963,"Comedy, Mystery, Romance            ",Stanley Donen,7.9
+Vivre Sa Vie,83 ,1962,Drama            ,Jean-Luc Godard,7.9
+The Manchurian Candidate,126 ,1962,"Drama, Thriller            ",John Frankenheimer,7.9
+Spartacus,197 ,1960,"Adventure, Biography, Drama            ",Stanley Kubrick,7.9
+Hiroshima Mon Amour,90 ,1959,"Drama, Romance            ",Alain Resnais,7.9
+Cat on a Hot Tin Roof,108 ,1958,Drama            ,Richard Brooks,7.9
+Lift to the Scaffold,91 ,1958,"Crime, Drama, Thriller            ",Louis Malle,7.9
+The Ten Commandments,220 ,1956,"Adventure, Drama, Family            ",Cecil B. DeMille,7.9
+The Searchers,119 ,1956,"Adventure, Drama, Western            ",John Ford,7.9
+The Big Heat,89 ,1953,"Crime, Film-Noir, Thriller            ",Fritz Lang,7.9
+A Streetcar Named Desire,122 ,1951,Drama            ,Elia Kazan,7.9
+Strangers on a Train,101 ,1951,"Crime, Drama, Film-Noir            ",Alfred Hitchcock,7.9
+In a Lonely Place,94 ,1950,"Drama, Film-Noir, Mystery            ",Nicholas Ray,7.9
+Harvey,104 ,1950,"Comedy, Drama, Fantasy            ",Henry Koster,7.9
+Rope,80 ,1948,"Crime, Drama, Mystery            ",Alfred Hitchcock,7.9
+Miracle on 34th Street,96 ,1947,"Comedy, Drama, Family            ",George Seaton,7.9
+Notorious,102 ,1946,"Drama, Film-Noir, Romance            ",Alfred Hitchcock,7.9
+The Big Sleep,114 ,1946,"Crime, Film-Noir, Mystery            ",Howard Hawks,7.9
+La Belle et la Bête,96 ,1946,"Drama, Fantasy, Romance            ",Jean Cocteau,7.9
+Mildred Pierce,111 ,1945,"Crime, Drama, Film-Noir            ",Michael Curtiz,7.9
+The Lost Weekend,101 ,1945,"Drama, Film-Noir            ",Billy Wilder,7.9
+Laura,88 ,1944,"Drama, Film-Noir, Mystery            ",Otto Preminger,7.9
+Arsenic and Old Lace,118 ,1944,"Comedy, Crime, Thriller            ",Frank Capra,7.9
+Sullivan's Travels,90 ,1941,"Adventure, Comedy, Drama            ",Preston Sturges,7.9
+The Philadelphia Story,112 ,1940,"Comedy, Romance            ",George Cukor,7.9
+La Règle du Jeu,110 ,1939,"Comedy, Drama            ",Jean Renoir,7.9
+The Adventures of Robin Hood,102 ,1938,"Action, Adventure, Romance            ",Michael Curtiz,7.9
+The Thin Man,91 ,1934,"Comedy, Mystery            ",W.S. Van Dyke,7.9
+King Kong,100 ,1933,"Adventure, Horror, Sci-Fi            ",Merian C. Cooper,7.9
+Nosferatu,94 ,1922,"Fantasy, Horror            ",F.W. Murnau,7.9
+The Gentlemen,113 ,2019,"Action, Comedy, Crime            ",Guy Ritchie,7.8
+Hindi Medium,132 ,2017,"Comedy, Drama            ",Saket Chaudhary,7.8
+Call Me by Your Name,132 ,2017,"Drama, Romance            ",Luca Guadagnino,7.8
+"I, Daniel Blake",100 ,2016,Drama            ,Ken Loach,7.8
+Isle of Dogs,101 ,2018,"Animation, Adventure, Comedy            ",Wes Anderson,7.8
+Dunkirk,106 ,2017,"Action, Drama, History            ",Christopher Nolan,7.8
+Hidden Figures,127 ,2016,"Biography, Drama, History            ",Theodore Melfi,7.8
+Hunt for the Wilderpeople,101 ,2016,"Adventure, Comedy, Drama            ",Taika Waititi,7.8
+Paddington 2,103 ,2017,"Adventure, Comedy, Family            ",Paul King,7.8
+Manchester by the Sea,137 ,2016,Drama            ,Kenneth Lonergan,7.8
+Land of Mine,100 ,2015,"Drama, History, War            ",Martin Zandvliet,7.8
+Rogue One,133 ,2016,"Action, Adventure, Sci-Fi            ",Gareth Edwards,7.8
+Captain Fantastic,118 ,2016,"Comedy, Drama            ",Matt Ross,7.8
+Captain America: Civil War,147 ,2016,"Action, Adventure, Sci-Fi            ",Anthony Russo,7.8
+The Hateful Eight,168 ,2015,"Crime, Drama, Mystery            ",Quentin Tarantino,7.8
+Little Women,135 ,2019,"Drama, Romance            ",Greta Gerwig,7.8
+Loving Vincent,94 ,2017,"Animation, Biography, Crime            ",Dorota Kobiela,7.8
+Pride,119 ,I 2014,"Biography, Comedy, Drama            ",Matthew Warchus,7.8
+Nightcrawler,117 ,2014,"Crime, Drama, Thriller            ",Dan Gilroy,7.8
+Star Wars: Episode VII - The Force Awakens,138 ,2015,"Action, Adventure, Sci-Fi            ",J.J. Abrams,7.8
+The Lunchbox,104 ,2013,"Drama, Romance            ",Ritesh Batra,7.8
+Vicky Donor,126 ,2012,"Comedy, Romance            ",Shoojit Sircar,7.8
+Big Hero 6,102 ,2014,"Animation, Action, Adventure            ",Don Hall,7.8
+About Time,123 ,I 2013,"Comedy, Drama, Fantasy            ",Richard Curtis,7.8
+English Vinglish,134 ,2012,"Comedy, Drama, Family            ",Gauri Shinde,7.8
+Deception,131 ,2013,"Crime, Drama, Mystery            ",Giuseppe Tornatore,7.8
+Captain America: The Winter Soldier,136 ,2014,"Action, Adventure, Sci-Fi            ",Anthony Russo,7.8
+Once Upon a Time in Anatolia,157 ,2011,"Crime, Drama, Thriller            ",Nuri Bilge Ceylan,7.8
+Moonrise Kingdom,94 ,2012,"Comedy, Drama, Romance            ",Wes Anderson,7.8
+How to Train Your Dragon 2,102 ,2014,"Animation, Action, Adventure            ",Dean DeBlois,7.8
+The Big Short,130 ,2015,"Biography, Comedy, Drama            ",Adam McKay,7.8
+I Saw the Devil,144 ,2010,"Action, Crime, Drama            ",Jee-woon Kim,7.8
+The Girl with the Dragon Tattoo,158 ,2011,"Crime, Drama, Mystery            ",David Fincher,7.8
+Captain Phillips,134 ,2013,"Action, Biography, Crime            ",Paul Greengrass,7.8
+Straight Outta Compton,147 ,2015,"Biography, Drama, History            ",F. Gary Gray,7.8
+The Irishman,209 ,2019,"Biography, Crime, Drama            ",Martin Scorsese,7.8
+The Social Network,120 ,2010,"Biography, Drama            ",David Fincher,7.8
+A Prophet,155 ,2009,"Crime, Drama            ",Jacques Audiard,7.8
+Thirteen Lives,147 ,2022,"Action, Adventure, Biography            ",Ron Howard,7.8
+Mother,129 ,2009,"Crime, Drama, Mystery            ",Bong Joon Ho,7.8
+The Chaser,125 ,2008,"Action, Crime, Drama            ",Na Hong-jin,7.8
+Moon,97 ,2009,"Drama, Mystery, Sci-Fi            ",Duncan Jones,7.8
+The Hobbit: The Desolation of Smaug,161 ,2013,"Adventure, Fantasy            ",Peter Jackson,7.8
+The White Ribbon,144 ,2009,"Drama, Mystery, Thriller            ",Michael Haneke,7.8
+The Girl with the Dragon Tattoo,152 ,2009,"Crime, Drama, Mystery            ",Niels Arden Oplev,7.8
+Skyfall,143 ,2012,"Action, Adventure, Thriller            ",Sam Mendes,7.8
+The Worst Person in the World,128 ,2021,"Comedy, Drama, Romance            ",Joachim Trier,7.8
+The Fighter,116 ,I 2010,"Action, Biography, Drama            ",David O. Russell,7.8
+Taken,90 ,I 2008,"Action, Crime, Thriller            ",Pierre Morel,7.8
+Once,86 ,I 2007,"Drama, Music, Romance            ",John Carney,7.8
+The Hobbit: An Unexpected Journey,169 ,2012,"Adventure, Fantasy            ",Peter Jackson,7.8
+Changeling,141 ,2008,"Biography, Crime, Drama            ",Clint Eastwood,7.8
+Atonement,123 ,2007,"Drama, Mystery, Romance            ",Joe Wright,7.8
+Drive,100 ,I 2011,"Action, Drama            ",Nicolas Winding Refn,7.8
+American Gangster,157 ,2007,"Biography, Crime, Drama            ",Ridley Scott,7.8
+Avatar,162 ,2009,"Action, Adventure, Fantasy            ",James Cameron,7.8
+Mr. Nobody,141 ,2009,"Drama, Fantasy, Romance            ",Jaco Van Dormael,7.8
+Apocalypto,139 ,2006,"Action, Adventure, Drama            ",Mel Gibson,7.8
+The Fall,117 ,I 2006,"Adventure, Drama, Fantasy            ",Tarsem Singh,7.8
+Little Miss Sunshine,101 ,2006,"Comedy, Drama            ",Jonathan Dayton,7.8
+Hot Fuzz,121 ,2007,"Action, Comedy, Mystery            ",Edgar Wright,7.8
+The Curious Case of Benjamin Button,166 ,2008,"Drama, Fantasy, Romance            ",David Fincher,7.8
+Veer Zaara,192 ,2004,"Drama, Family, Musical            ",Yash Chopra,7.8
+Pride & Prejudice,129 ,2005,"Drama, Romance            ",Joe Wright,7.8
+The World's Fastest Indian,127 ,2005,"Biography, Drama, Sport            ",Roger Donaldson,7.8
+Tôkyô goddofâzâzu,88 ,2003,"Animation, Adventure, Comedy            ",Satoshi Kon,7.8
+Serenity,119 ,2005,"Action, Adventure, Sci-Fi            ",Joss Whedon,7.8
+Crash,112 ,I 2004,"Crime, Drama, Thriller            ",Paul Haggis,7.8
+The Chorus,97 ,2004,"Comedy, Drama, Music            ",Christophe Barratier,7.8
+Walk the Line,136 ,2005,"Biography, Drama, Music            ",James Mangold,7.8
+The Notebook,123 ,2004,"Drama, Romance            ",Nick Cassavetes,7.8
+The Last Samurai,154 ,2003,"Action, Drama            ",Edward Zwick,7.8
+The Motorcycle Diaries,126 ,2004,"Adventure, Biography, Drama            ",Walter Salles,7.8
+Lilya 4-Ever,109 ,2002,"Crime, Drama            ",Lukas Moodysson,7.8
+Millennium Actress,87 ,2001,"Animation, Drama, Fantasy            ",Satoshi Kon,7.8
+Cowboy Bebop: The Movie,115 ,2001,"Animation, Action, Crime            ",Shin'ichirô Watanabe,7.8
+Joint Security Area,110 ,2000,"Action, Drama, Thriller            ",Park Chan-wook,7.8
+Remember the Titans,113 ,2000,"Biography, Drama, Sport            ",Boaz Yakin,7.8
+All About My Mother,101 ,1999,Drama            ,Pedro Almodóvar,7.8
+Cast Away,143 ,2000,"Adventure, Drama, Romance            ",Robert Zemeckis,7.8
+The Insider,157 ,1999,"Biography, Drama, Thriller            ",Michael Mann,7.8
+October Sky,108 ,1999,"Biography, Drama, Family            ",Joe Johnston,7.8
+Being John Malkovich,113 ,1999,"Comedy, Drama, Fantasy            ",Spike Jonze,7.8
+Gattaca,106 ,1997,"Drama, Sci-Fi, Thriller            ",Andrew Niccol,7.8
+Hamlet,242 ,1996,Drama            ,Kenneth Branagh,7.8
+Breaking the Waves,159 ,1996,Drama            ,Lars von Trier,7.8
+Ed Wood,127 ,1994,"Biography, Comedy, Drama            ",Tim Burton,7.8
+Tombstone,130 ,1993,"Biography, Drama, History            ",George P. Cosmatos,7.8
+The Sandlot Kids,101 ,1993,"Comedy, Drama, Family            ",David Mickey Evans,7.8
+The Remains of the Day,134 ,1993,"Drama, Romance            ",James Ivory,7.8
+Ninja Scroll,94 ,1993,"Animation, Action, Adventure            ",Yoshiaki Kawajiri,7.8
+The Fugitive,130 ,1993,"Action, Crime, Drama            ",Andrew Davis,7.8
+A Bronx Tale,121 ,1993,"Crime, Drama            ",Robert De Niro,7.8
+Batman: Mask of the Phantasm,76 ,1993,"Animation, Action, Adventure            ",Kevin Altieri,7.8
+Boyz n the Hood,112 ,1991,"Crime, Drama            ",John Singleton,7.8
+Misery,107 ,1990,"Drama, Thriller            ",Rob Reiner,7.8
+Awakenings,121 ,1990,"Biography, Drama            ",Penny Marshall,7.8
+Kiki's Delivery Service,103 ,1989,"Animation, Adventure, Family            ",Hayao Miyazaki,7.8
+Glory,122 ,1989,"Biography, Drama, History            ",Edward Zwick,7.8
+The Killer,111 ,1989,"Action, Crime, Drama            ",John Woo,7.8
+Crimes and Misdemeanors,104 ,1989,"Comedy, Drama            ",Woody Allen,7.8
+Back to the Future Part II,108 ,1989,"Adventure, Comedy, Sci-Fi            ",Robert Zemeckis,7.8
+Mississippi Burning,128 ,1988,"Crime, Drama, History            ",Alan Parker,7.8
+Predator,107 ,1987,"Action, Adventure, Horror            ",John McTiernan,7.8
+Ferris Bueller's Day Off,103 ,1986,Comedy            ,John Hughes,7.8
+The Breakfast Club,97 ,1985,"Comedy, Drama            ",John Hughes,7.8
+The Killing Fields,141 ,1984,"Biography, Drama, History            ",Roland Joffé,7.8
+Ghostbusters,105 ,1984,"Action, Comedy, Fantasy            ",Ivan Reitman,7.8
+The Right Stuff,193 ,1983,"Adventure, Biography, Drama            ",Philip Kaufman,7.8
+The King of Comedy,109 ,1982,"Comedy, Crime, Drama            ",Martin Scorsese,7.8
+Kramer vs. Kramer,105 ,1979,Drama            ,Robert Benton,7.8
+All That Jazz,123 ,1979,"Drama, Music, Musical            ",Bob Fosse,7.8
+Days of Heaven,94 ,1978,"Drama, Romance            ",Terrence Malick,7.8
+Dawn of the Dead,127 ,1978,"Horror, Thriller            ",George A. Romero,7.8
+The Outlaw Josey Wales,135 ,1976,Western            ,Clint Eastwood,7.8
+The Man Who Would Be King,129 ,1975,"Adventure, History, War            ",John Huston,7.8
+The Holy Mountain,114 ,1973,"Adventure, Drama, Fantasy            ",Alejandro Jodorowsky,7.8
+The Conversation,113 ,1974,"Drama, Mystery, Thriller            ",Francis Ford Coppola,7.8
+The Day of the Jackal,143 ,1973,"Crime, Drama, Thriller            ",Fred Zinnemann,7.8
+The Discreet Charm of the Bourgeoisie,102 ,1972,Comedy            ,Luis Buñuel,7.8
+Cabaret,124 ,1972,"Drama, Music, Musical            ",Bob Fosse,7.8
+"Aguirre, the Wrath of God",95 ,1972,"Action, Adventure, Biography            ",Werner Herzog,7.8
+Willy Wonka & the Chocolate Factory,100 ,1971,"Family, Fantasy, Musical            ",Mel Stuart,7.8
+Midnight Cowboy,113 ,1969,Drama            ,John Schlesinger,7.8
+Night of the Living Dead,96 ,1968,"Horror, Thriller            ",George A. Romero,7.8
+Guess Who's Coming to Dinner,108 ,1967,"Comedy, Drama            ",Stanley Kramer,7.8
+The Umbrellas of Cherbourg,91 ,1964,"Drama, Musical, Romance            ",Jacques Demy,7.8
+My Fair Lady,170 ,1964,"Drama, Family, Musical            ",George Cukor,7.8
+Mary Poppins,139 ,1964,"Comedy, Family, Fantasy            ",Robert Stevenson,7.8
+The Innocents,100 ,1961,Horror            ,Jack Clayton,7.8
+L'Avventura,144 ,1960,"Drama, Mystery, Romance            ",Michelangelo Antonioni,7.8
+East of Eden,118 ,1955,Drama            ,Elia Kazan,7.8
+The Day the Earth Stood Still,92 ,1951,"Drama, Sci-Fi            ",Robert Wise,7.8
+The Asphalt Jungle,112 ,1950,"Crime, Drama, Film-Noir            ",John Huston,7.8
+Red River,133 ,1948,"Drama, Western            ",Howard Hawks,7.8
+To Have and Have Not,100 ,1944,"Adventure, Comedy, Film-Noir            ",Howard Hawks,7.8
+Gaslight,114 ,1944,"Crime, Drama, Mystery            ",George Cukor,7.8
+Shadow of a Doubt,108 ,1943,"Film-Noir, Thriller            ",Alfred Hitchcock,7.8
+His Girl Friday,92 ,1940,"Comedy, Drama, Romance            ",Howard Hawks,7.8
+Stagecoach,96 ,1939,"Adventure, Drama, Western            ",John Ford,7.8
+You Can't Take It with You,126 ,1938,"Comedy, Drama, Romance            ",Frank Capra,7.8
+The Lady Vanishes,96 ,1938,"Mystery, Thriller            ",Alfred Hitchcock,7.8
+Bringing Up Baby,102 ,1938,Comedy            ,Howard Hawks,7.8
+A Night at the Opera,96 ,1935,"Comedy, Music, Musical            ",Sam Wood,7.8
+Bride of Frankenstein,75 ,1935,"Drama, Horror, Sci-Fi            ",James Whale,7.8
+Duck Soup,69 ,1933,"Comedy, Musical            ",Leo McCarey,7.8
+Freaks,64 ,1932,"Drama, Horror            ",Tod Browning,7.8
+Frankenstein,70 ,1931,"Drama, Horror, Sci-Fi            ",James Whale,7.8
+Dragon Ball Super: Broly,100 ,2018,"Animation, Action, Adventure            ",Tatsuya Nagamine,7.7
+Roma,135 ,2018,Drama            ,Alfonso Cuarón,7.7
+Deadpool 2,119 ,2018,"Action, Adventure, Comedy            ",David Leitch,7.7
+Sound of Metal,120 ,2019,"Drama, Music            ",Darius Marder,7.7
+Wind River,107 ,2017,"Crime, Drama, Mystery            ",Taylor Sheridan,7.7
+The Salesman,124 ,2016,Drama            ,Asghar Farhadi,7.7
+Get Out,104 ,I 2017,"Horror, Mystery, Thriller            ",Jordan Peele,7.7
+Mission: Impossible - Fallout,147 ,2018,"Action, Adventure, Thriller            ",Christopher McQuarrie,7.7
+Perfect Strangers,96 ,2016,"Comedy, Drama            ",Paolo Genovese,7.7
+Udta Punjab,148 ,2016,"Action, Crime, Drama            ",Abhishek Chaubey,7.7
+Kubo and the Two Strings,101 ,2016,"Animation, Action, Adventure            ",Travis Knight,7.7
+A Man Called Ove,116 ,2015,"Comedy, Drama, Romance            ",Hannes Holm,7.7
+The Breadwinner,94 ,2017,"Animation, Drama, Family            ",Nora Twomey,7.7
+When Marnie Was There,103 ,2014,"Animation, Drama, Family            ",Hiromasa Yonebayashi,7.7
+The Theory of Everything,123 ,2014,"Biography, Drama, Romance            ",James Marsh,7.7
+Kingsman: The Secret Service,129 ,2014,"Action, Adventure, Comedy            ",Matthew Vaughn,7.7
+The Fault in Our Stars,126 ,2014,"Drama, Romance            ",Josh Boone,7.7
+Me and Earl and the Dying Girl,105 ,2015,"Comedy, Drama, Romance            ",Alfonso Gomez-Rejon,7.7
+Birdman or (The Unexpected Virtue of Ignorance),119 ,2014,"Comedy, Drama            ",Alejandro G. Iñárritu,7.7
+The Past,130 ,2013,"Drama, Mystery            ",Asghar Farhadi,7.7
+The Great Beauty,141 ,2013,Drama            ,Paolo Sorrentino,7.7
+My Name Is Courgette,66 ,2016,"Animation, Comedy, Drama            ",Claude Barras,7.7
+Blue Is the Warmest Colour,180 ,2013,"Drama, Romance            ",Abdellatif Kechiche,7.7
+The Broken Circle Breakdown,111 ,2012,"Drama, Music, Romance            ",Felix van Groeningen,7.7
+The Wind Rises,126 ,2013,"Animation, Biography, Drama            ",Hayao Miyazaki,7.7
+Toy Story 4,100 ,2019,"Animation, Adventure, Comedy            ",Josh Cooley,7.7
+Nebraska,115 ,2013,"Adventure, Comedy, Drama            ",Alexander Payne,7.7
+Wreck-It Ralph,101 ,2012,"Animation, Adventure, Comedy            ",Rich Moore,7.7
+The Little Prince,108 ,2015,"Animation, Adventure, Drama            ",Mark Osborne,7.7
+Detachment,98 ,2011,Drama            ,Tony Kaye,7.7
+Midnight in Paris,94 ,2011,"Comedy, Fantasy, Romance            ",Woody Allen,7.7
+Confessions,106 ,2010,"Drama, Thriller            ",Tetsuya Nakashima,7.7
+The Man from Nowhere,119 ,2010,"Action, Crime, Drama            ",Jeong-beom Lee,7.7
+The Lego Movie,100 ,2014,"Animation, Action, Adventure            ",Phil Lord,7.7
+Gravity,91 ,2013,"Drama, Sci-Fi, Thriller            ",Alfonso Cuarón,7.7
+Star Trek Into Darkness,132 ,2013,"Action, Adventure, Sci-Fi            ",J.J. Abrams,7.7
+Beasts of No Nation,137 ,2015,"Drama, War            ",Cary Joji Fukunaga,7.7
+X: First Class,131 ,2011,"Action, Adventure, Sci-Fi            ",Matthew Vaughn,7.7
+The Hangover,100 ,2009,Comedy            ,Todd Phillips,7.7
+The Trial of the Chicago 7,129 ,2020,"Drama, History, Thriller            ",Aaron Sorkin,7.7
+Silver Linings Playbook,122 ,2012,"Comedy, Drama, Romance            ",David O. Russell,7.7
+Another Round,117 ,2020,"Comedy, Drama            ",Thomas Vinterberg,7.7
+Argo,120 ,2012,"Biography, Drama, Thriller            ",Ben Affleck,7.7
+500 Days of Summer,95 ,2009,"Comedy, Drama, Romance            ",Marc Webb,7.7
+Harry Potter and the Deathly Hallows: Part 1,146 ,2010,"Adventure, Family, Fantasy            ",David Yates,7.7
+The Boy in the Striped Pyjamas,94 ,2008,"Drama, War            ",Mark Herman,7.7
+The Edge of Heaven,122 ,2007,Drama            ,Fatih Akin,7.7
+Frost/Nixon,122 ,2008,"Biography, Drama, History            ",Ron Howard,7.7
+Paprika,90 ,2006,"Animation, Drama, Fantasy            ",Satoshi Kon,7.7
+Flipped,90 ,I 2010,"Comedy, Drama, Romance            ",Rob Reiner,7.7
+The Girl Who Leapt Through Time,98 ,2006,"Animation, Adventure, Comedy            ",Mamoru Hosoda,7.7
+This Is England,101 ,2006,"Crime, Drama            ",Shane Meadows,7.7
+Ex Machina,108 ,2014,"Drama, Sci-Fi, Thriller            ",Alex Garland,7.7
+After the Wedding,120 ,2006,Drama            ,Susanne Bier,7.7
+Zodiac,157 ,2007,"Crime, Drama, Mystery            ",David Fincher,7.7
+Lucky Number Slevin,110 ,2006,"Crime, Drama, Thriller            ",Paul McGuigan,7.7
+Joyeux Noel,116 ,2005,"Drama, History, Music            ",Christian Carion,7.7
+Adam's Apples,94 ,2005,"Comedy, Crime, Drama            ",Anders Thomas Jensen,7.7
+Tangled,100 ,2010,"Animation, Adventure, Comedy            ",Nathan Greno,7.7
+Black Book,145 ,2006,"Drama, Thriller, War            ",Paul Verhoeven,7.7
+Brokeback Mountain,134 ,2005,"Drama, Romance            ",Ang Lee,7.7
+3:10 to Yuma,122 ,2007,"Action, Crime, Drama            ",James Mangold,7.7
+Kung Fu Hustle,99 ,2004,"Action, Comedy, Fantasy            ",Stephen Chow,7.7
+The Bourne Supremacy,108 ,2004,"Action, Mystery, Thriller            ",Paul Greengrass,7.7
+The Machinist,101 ,2004,"Drama, Thriller            ",Brad Anderson,7.7
+Ray,152 ,I 2004,"Biography, Drama, Music            ",Taylor Hackford,7.7
+Evil,113 ,2003,Drama            ,Mikael Håfström,7.7
+Lost in Translation,102 ,2003,"Comedy, Drama            ",Sofia Coppola,7.7
+Harry Potter and the Goblet of Fire,157 ,2005,"Adventure, Family, Fantasy            ",Mike Newell,7.7
+Man on Fire,146 ,2004,"Action, Crime, Drama            ",Tony Scott,7.7
+Coraline,100 ,2009,"Animation, Drama, Family            ",Henry Selick,7.7
+The Magdalene Sisters,114 ,2002,Drama            ,Peter Mullan,7.7
+Finding Neverland,106 ,2004,"Biography, Drama, Family            ",Marc Forster,7.7
+Good Bye Lenin!,121 ,2003,"Comedy, Drama, Romance            ",Wolfgang Becker,7.7
+In America,105 ,2002,Drama            ,Jim Sheridan,7.7
+The Triplets of Belleville,80 ,2003,"Animation, Comedy, Drama            ",Sylvain Chomet,7.7
+Adaptation.,115 ,2002,"Comedy, Drama            ",Spike Jonze,7.7
+Black Hawk Down,144 ,2001,"Action, Drama, History            ",Ridley Scott,7.7
+Road to Perdition,117 ,2002,"Crime, Drama, Thriller            ",Sam Mendes,7.7
+Das Experiment,120 ,2001,"Drama, Thriller            ",Oliver Hirschbiegel,7.7
+Billy Elliot,110 ,2000,"Drama, Music            ",Stephen Daldry,7.7
+Hedwig and the Angry Inch,95 ,2001,"Comedy, Drama, Music            ",John Cameron Mitchell,7.7
+The Count of Monte Cristo,131 ,2002,"Action, Adventure, Drama            ",Kevin Reynolds,7.7
+Y tu mamá también,106 ,2001,Drama            ,Alfonso Cuarón,7.7
+Waking Life,99 ,2001,"Animation, Drama, Fantasy            ",Richard Linklater,7.7
+Ocean's Eleven,116 ,2001,"Crime, Thriller            ",Steven Soderbergh,7.7
+"O Brother, Where Art Thou?",107 ,2000,"Adventure, Comedy, Crime            ",Joel Coen,7.7
+Minority Report,145 ,2002,"Action, Crime, Mystery            ",Steven Spielberg,7.7
+"South Park: Bigger, Longer & Uncut",81 ,1999,"Animation, Comedy, Fantasy            ",Trey Parker,7.7
+Office Space,89 ,1999,Comedy            ,Mike Judge,7.7
+Happiness,134 ,1998,"Comedy, Drama            ",Todd Solondz,7.7
+The Boondock Saints,108 ,1999,"Action, Thriller            ",Troy Duffy,7.7
+Training Day,122 ,2001,"Action, Crime, Drama            ",Antoine Fuqua,7.7
+Run Lola Run,81 ,1998,"Action, Crime, Thriller            ",Tom Tykwer,7.7
+Open Your Eyes,119 ,1997,"Drama, Mystery, Sci-Fi            ",Alejandro Amenábar,7.7
+Taste of Cherry,95 ,1997,Drama            ,Abbas Kiarostami,7.7
+As Good as It Gets,139 ,1997,"Comedy, Drama, Romance            ",James L. Brooks,7.7
+Hana-Bi,103 ,1997,"Crime, Drama, Romance            ",Takeshi Kitano,7.7
+The Game,129 ,1997,"Drama, Mystery, Thriller            ",David Fincher,7.7
+Donnie Brasco,127 ,1997,"Biography, Crime, Drama            ",Mike Newell,7.7
+Happy Together,96 ,1997,"Drama, Romance            ",Kar-Wai Wong,7.7
+Primal Fear,129 ,1996,"Crime, Drama, Mystery            ",Gregory Hoblit,7.7
+Sense and Sensibility,136 ,1995,"Drama, Romance            ",Ang Lee,7.7
+Apollo 13,140 ,I 1995,"Adventure, Drama, History            ",Ron Howard,7.7
+The Postman,108 ,1994,"Biography, Comedy, Drama            ",Michael Radford,7.7
+Clerks,92 ,1994,Comedy            ,Kevin Smith,7.7
+What's Eating Gilbert Grape,118 ,1993,Drama            ,Lasse Hallström,7.7
+Short Cuts,188 ,1993,"Comedy, Drama            ",Robert Altman,7.7
+Philadelphia,125 ,1993,Drama            ,Jonathan Demme,7.7
+Naked,131 ,1993,"Comedy, Drama            ",Mike Leigh,7.7
+The Muppet Christmas Carol,85 ,1992,"Comedy, Drama, Family            ",Brian Henson,7.7
+Malcolm X,202 ,1992,"Biography, Drama, History            ",Spike Lee,7.7
+The Last of the Mohicans,112 ,1992,"Action, Adventure, Drama            ",Michael Mann,7.7
+Hard Boiled,128 ,1992,"Action, Crime, Thriller            ",John Woo,7.7
+Porco Rosso,94 ,1992,"Animation, Adventure, Comedy            ",Hayao Miyazaki,7.7
+Glengarry Glen Ross,100 ,1992,"Crime, Drama, Mystery            ",James Foley,7.7
+A Few Good Men,138 ,1992,"Drama, Thriller            ",Rob Reiner,7.7
+Night on Earth,129 ,1991,"Comedy, Drama            ",Jim Jarmusch,7.7
+Fried Green Tomatoes at the Whistle Stop Cafe,130 ,1991,Drama            ,Jon Avnet,7.7
+The Double Life of Véronique,98 ,1991,"Drama, Fantasy, Music            ",Krzysztof Kieslowski,7.7
+Dreams,119 ,1990,"Drama, Fantasy            ",Akira Kurosawa,7.7
+Miller's Crossing,115 ,1990,"Crime, Drama, Thriller            ",Joel Coen,7.7
+Home Alone,103 ,1990,"Comedy, Family            ",Chris Columbus,7.7
+When Harry Met Sally,95 ,1989,"Comedy, Drama, Romance            ",Rob Reiner,7.7
+Who Framed Roger Rabbit,104 ,1988,"Animation, Adventure, Comedy            ",Robert Zemeckis,7.7
+The Vanishing,107 ,1988,"Mystery, Thriller            ",George Sluizer,7.7
+The Last Emperor,163 ,1987,"Biography, Drama, History            ",Bernardo Bertolucci,7.7
+Evil Dead II,84 ,1987,"Comedy, Horror            ",Sam Raimi,7.7
+Empire of the Sun,153 ,1987,"Drama, History, War            ",Steven Spielberg,7.7
+The Name of the Rose,130 ,1986,"Drama, History, Mystery            ",Jean-Jacques Annaud,7.7
+Down by Law,107 ,1986,"Comedy, Crime, Drama            ",Jim Jarmusch,7.7
+Blue Velvet,120 ,1986,"Crime, Drama, Mystery            ",David Lynch,7.7
+The Purple Rose of Cairo,82 ,1985,"Comedy, Fantasy, Romance            ",Woody Allen,7.7
+The Goonies,114 ,1985,"Adventure, Comedy, Family            ",Richard Donner,7.7
+The Color Purple,154 ,1985,Drama            ,Steven Spielberg,7.7
+Zelig,79 ,1983,Comedy            ,Woody Allen,7.7
+The Verdict,129 ,1982,Drama            ,Sidney Lumet,7.7
+Star Trek II: The Wrath of Khan,113 ,1982,"Action, Adventure, Sci-Fi            ",Nicholas Meyer,7.7
+First Blood,93 ,1982,"Action, Adventure, Thriller            ",Ted Kotcheff,7.7
+Ordinary People,124 ,1980,Drama            ,Robert Redford,7.7
+Airplane!,88 ,1980,Comedy            ,Jim Abrahams,7.7
+Halloween,91 ,1978,"Horror, Thriller            ",John Carpenter,7.7
+Nashville,160 ,1975,"Comedy, Drama, Music            ",Robert Altman,7.7
+Love and Death,85 ,1975,"Comedy, War            ",Woody Allen,7.7
+Blazing Saddles,93 ,1974,"Comedy, Western            ",Mel Brooks,7.7
+Serpico,130 ,1973,"Biography, Crime, Drama            ",Sidney Lumet,7.7
+Fantastic Planet,72 ,1973,"Animation, Sci-Fi            ",René Laloux,7.7
+Badlands,94 ,1973,"Action, Crime, Drama            ",Terrence Malick,7.7
+Deliverance,109 ,1972,"Adventure, Drama, Thriller            ",John Boorman,7.7
+The French Connection,104 ,1971,"Action, Crime, Drama            ",William Friedkin,7.7
+Dirty Harry,102 ,1971,"Action, Crime, Thriller            ",Don Siegel,7.7
+Wait Until Dark,108 ,1967,Thriller            ,Terence Young,7.7
+The Dirty Dozen,150 ,1967,"Action, Adventure, War            ",Robert Aldrich,7.7
+Bonnie and Clyde,111 ,1967,"Action, Biography, Crime            ",Arthur Penn,7.7
+Belle de Jour,100 ,1967,"Drama, Romance            ",Luis Buñuel,7.7
+A Man for All Seasons,120 ,1966,"Biography, Drama, History            ",Fred Zinnemann,7.7
+Zulu,138 ,1964,"Drama, History, War            ",Cy Endfield,7.7
+Goldfinger,110 ,1964,"Action, Adventure, Thriller            ",Guy Hamilton,7.7
+The Longest Day,178 ,1962,"Action, Drama, History            ",Ken Annakin,7.7
+Cape Fear,106 ,1962,"Drama, Thriller            ",J. Lee Thompson,7.7
+Jules and Jim,105 ,1962,"Drama, Romance            ",François Truffaut,7.7
+The Magnificent Seven,128 ,1960,"Action, Adventure, Western            ",John Sturges,7.7
+Breathless,90 ,1960,"Crime, Drama            ",Jean-Luc Godard,7.7
+Invasion of the Body Snatchers,80 ,1956,"Drama, Horror, Sci-Fi            ",Don Siegel,7.7
+The Caine Mutiny,124 ,1954,"Drama, War            ",Edward Dmytryk,7.7
+The Quiet Man,129 ,1952,"Comedy, Drama, Romance            ",John Ford,7.7
+The African Queen,105 ,1951,"Adventure, Drama, Romance            ",John Huston,7.7
+Key Largo,100 ,1948,"Action, Crime, Drama            ",John Huston,7.7
+Fantasia,125 ,1940,"Animation, Family, Fantasy            ",James Algar,7.7
+Scarface,93 ,1932,"Action, Crime, Drama            ",Howard Hawks,7.7
+Dark Waters,126 ,2019,"Biography, Drama, History            ",Todd Haynes,7.6
+The Mitchells vs the Machines,114 ,2021,"Animation, Adventure, Comedy            ",Michael Rianda,7.6
+Searching,102 ,III 2018,"Drama, Horror, Mystery            ",Aneesh Chaganty,7.6
+Once Upon a Time... in Hollywood,161 ,2019,"Comedy, Drama            ",Quentin Tarantino,7.6
+Guardians of the Galaxy: Vol. 2,136 ,2017,"Action, Adventure, Comedy            ",James Gunn,7.6
+Bridge of Spies,142 ,2015,"Drama, History, Thriller            ",Steven Spielberg,7.6
+The Incredibles 2,118 ,2018,"Animation, Action, Adventure            ",Brad Bird,7.6
+Moana,107 ,I 2016,"Animation, Adventure, Comedy            ",Ron Clements,7.6
+What We Do in the Shadows,86 ,2014,"Comedy, Horror            ",Jemaine Clement,7.6
+Sicario,121 ,2015,"Action, Crime, Drama            ",Denis Villeneuve,7.6
+Creed,133 ,II 2015,"Action, Drama, Sport            ",Ryan Coogler,7.6
+Leviathan,140 ,2014,"Crime, Drama            ",Andrey Zvyagintsev,7.6
+Hell or High Water,102 ,II 2016,"Crime, Drama, Thriller            ",David Mackenzie,7.6
+Philomena,98 ,2013,"Biography, Comedy, Drama            ",Stephen Frears,7.6
+Dawn of the Planet of the Apes,130 ,2014,"Action, Adventure, Drama            ",Matt Reeves,7.6
+The Raid,101 ,2011,"Action, Crime, Thriller            ",Gareth Evans,7.6
+End of Watch,109 ,2012,"Action, Adventure, Crime            ",David Ayer,7.6
+A Star Is Born,136 ,2018,"Drama, Music, Romance            ",Bradley Cooper,7.6
+True Grit,110 ,2010,"Drama, Western            ",Ethan Coen,7.6
+Despicable Me,95 ,2010,"Animation, Adventure, Comedy            ",Pierre Coffin,7.6
+50/50,100 ,2011,"Comedy, Drama, Romance            ",Jonathan Levine,7.6
+Kick-Ass,117 ,2010,"Action, Comedy, Crime            ",Matthew Vaughn,7.6
+Cell 211,113 ,2009,"Action, Crime, Drama            ",Daniel Monzón,7.6
+Moneyball,133 ,2011,"Biography, Drama, Sport            ",Bennett Miller,7.6
+The Skin I Live In,120 ,2011,"Drama, Horror, Thriller            ",Pedro Almodóvar,7.6
+The Blind Side,129 ,2009,"Biography, Drama, Sport            ",John Lee Hancock,7.6
+Ponyo,101 ,2008,"Animation, Adventure, Comedy            ",Hayao Miyazaki,7.6
+Superbad,113 ,2007,Comedy            ,Greg Mottola,7.6
+Seven Pounds,123 ,2008,Drama            ,Gabriele Muccino,7.6
+Eastern Promises,100 ,2007,"Crime, Drama, Thriller            ",David Cronenberg,7.6
+Stardust,127 ,2007,"Adventure, Family, Fantasy            ",Matthew Vaughn,7.6
+United 93,111 ,2006,"Action, Drama, History            ",Paul Greengrass,7.6
+The Last King of Scotland,123 ,2006,"Biography, Drama, History            ",Kevin Macdonald,7.6
+Inside Man,129 ,2006,"Crime, Drama, Mystery            ",Spike Lee,7.6
+Gone Baby Gone,114 ,2007,"Crime, Drama, Mystery            ",Ben Affleck,7.6
+Kung Fu Panda,92 ,2008,"Animation, Action, Adventure            ",Mark Osborne,7.6
+Control,122 ,2007,"Biography, Drama, Music            ",Anton Corbijn,7.6
+300,117 ,2006,"Action, Drama            ",Zack Snyder,7.6
+Match Point,124 ,2005,"Drama, Romance, Thriller            ",Woody Allen,7.6
+Watchmen,162 ,2009,"Action, Drama, Mystery            ",Zack Snyder,7.6
+Lord of War,122 ,2005,"Crime, Drama            ",Andrew Niccol,7.6
+Saw,103 ,2004,"Horror, Mystery, Thriller            ",James Wan,7.6
+A Very Long Engagement,133 ,2004,"Drama, Mystery, Romance            ",Jean-Pierre Jeunet,7.6
+The Station Agent,89 ,2003,"Comedy, Drama            ",Tom McCarthy,7.6
+21 Grams,124 ,2003,"Crime, Drama, Thriller            ",Alejandro G. Iñárritu,7.6
+25th Hour,135 ,2002,Drama            ,Spike Lee,7.6
+The Butterfly Effect,113 ,2004,"Drama, Sci-Fi, Thriller            ",Eric Bress,7.6
+I Am Sam,132 ,2001,Drama            ,Jessie Nelson,7.6
+The Royal Tenenbaums,110 ,2001,"Comedy, Drama            ",Wes Anderson,7.6
+Harry Potter and the Philosopher's Stone,152 ,2001,"Adventure, Family, Fantasy            ",Chris Columbus,7.6
+The Others,101 ,2001,"Horror, Mystery, Thriller            ",Alejandro Amenábar,7.6
+Traffic,147 ,2000,"Crime, Drama, Thriller            ",Steven Soderbergh,7.6
+American Psycho,102 ,2000,"Crime, Drama, Horror            ",Mary Harron,7.6
+Rushmore,93 ,1998,"Comedy, Drama, Romance            ",Wes Anderson,7.6
+Star Wars: Episode III - Revenge of the Sith,140 ,2005,"Action, Adventure, Fantasy            ",George Lucas,7.6
+The Thin Red Line,170 ,1998,"Drama, History, War            ",Terrence Malick,7.6
+Mulan,88 ,1998,"Animation, Adventure, Comedy            ",Tony Bancroft,7.6
+The Fifth Element,126 ,1997,"Action, Adventure, Sci-Fi            ",Luc Besson,7.6
+Dark City,100 ,1998,"Fantasy, Mystery, Sci-Fi            ",Alex Proyas,7.6
+Shine,105 ,1996,"Biography, Drama, Music            ",Scott Hicks,7.6
+Die Hard: With a Vengeance,128 ,1995,"Action, Adventure, Thriller            ",John McTiernan,7.6
+The Bridges of Madison County,135 ,1995,"Drama, Romance            ",Clint Eastwood,7.6
+Three Colors: White,92 ,1994,"Comedy, Drama, Romance            ",Krzysztof Kieslowski,7.6
+My Cousin Vinny,120 ,1992,"Comedy, Crime            ",Jonathan Lynn,7.6
+Barton Fink,116 ,1991,"Comedy, Drama, Thriller            ",Joel Coen,7.6
+The Godfather Part III,162 ,1990,"Crime, Drama            ",Francis Ford Coppola,7.6
+The Little Mermaid,83 ,1989,"Animation, Adventure, Comedy            ",Ron Clements,7.6
+The Naked Gun: From the Files of Police Squad!,85 ,1988,"Comedy, Crime            ",David Zucker,7.6
+RoboCop,102 ,1987,"Action, Crime, Sci-Fi            ",Paul Verhoeven,7.6
+Lethal Weapon,109 ,1987,"Action, Crime, Thriller            ",Richard Donner,7.6
+The Fly,96 ,1986,"Drama, Horror, Sci-Fi            ",David Cronenberg,7.6
+After Hours,97 ,I 1985,"Comedy, Crime, Drama            ",Martin Scorsese,7.6
+Mad Max 2,96 ,1981,"Action, Adventure, Sci-Fi            ",George Miller,7.6
+Close Encounters of the Third Kind,138 ,1977,"Drama, Sci-Fi            ",Steven Spielberg,7.6
+The Taking of Pelham One Two Three,104 ,1974,"Action, Crime, Thriller            ",Joseph Sargent,7.6
+Enter The Dragon,102 ,1973,"Action, Crime, Drama            ",Robert Clouse,7.6
+The Odd Couple,105 ,1968,Comedy            ,Gene Saks,7.6
+The Jungle Book,78 ,1967,"Animation, Adventure, Comedy            ",Wolfgang Reitherman,7.6
+Repulsion,105 ,1965,"Drama, Horror, Thriller            ",Roman Polanski,7.6
+The Birds,119 ,1963,"Drama, Horror, Mystery            ",Alfred Hitchcock,7.6
+Eyes Without a Face,90 ,1960,"Drama, Horror            ",Georges Franju,7.6
+Rebel Without a Cause,111 ,1955,Drama            ,Nicholas Ray,7.6
+Sabrina,113 ,1954,"Comedy, Drama, Romance            ",Billy Wilder,7.6
+From Here to Eternity,118 ,1953,"Drama, Romance, War            ",Fred Zinnemann,7.6
+Snow White and the Seven Dwarfs,83 ,1937,"Animation, Adventure, Family            ",William Cottrell,7.6
+The 39 Steps,86 ,1935,"Crime, Mystery, Thriller            ",Alfred Hitchcock,7.6
+The Invisible Man,71 ,1933,"Horror, Sci-Fi            ",James Whale,7.6
